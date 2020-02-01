@@ -1,2 +1,2 @@
 # bitcoin-translate
-Raccolta di materiale informativo (esclusivamente in lingua italiana).
+Raccolta di materiale informativo esclusivamente in lingua italiana.
