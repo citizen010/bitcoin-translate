@@ -8,17 +8,17 @@ Tutto il materiale qui presente è in lingua italiana. La terminologia tecnica n
 * ### [Che cos'è](cosa.md)
 La preistoria, la storia e le evoluzioni del protocollo Bitcoin.
 
-### [Come funziona](come.md)
+* ### [Come funziona](come.md)
 Gli elementi che concorrono al funzionamento del network globale.
 
-### [Perchè è necessario](perche.md) 
+* ### [Perchè è necessario](perche.md) 
 Le ragioni alla base della sua adozione.
 
-### [Come iniziare ad usarlo](uso.md)
+* ### [Come iniziare ad usarlo](uso.md)
 Portafogli digitali, nodi e lightning network.
 
-### [Glossario](glossario.md)
+* ### [Glossario](glossario.md)
 Una raccolta di termini che troverete durante la lettura.
 
-### [Note](note.md)
+* ### [Note](note.md)
 Bibliografia e riferimenti a risorse __esterne__.
