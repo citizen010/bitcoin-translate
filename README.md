@@ -8,7 +8,7 @@ Tutto il materiale qui presente è in lingua italiana. La terminologia tecnica n
 ### [Che cos'è](cosa.md)
 La preistoria, la storia e le evoluzioni del protocollo Bitcoin.
 
-## Come funziona
+### [Come funziona](come.md)
 Gli elementi che concorrono al funzionamento del network globale.
 
 ## Perchè è necessario 
