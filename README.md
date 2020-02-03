@@ -14,15 +14,11 @@ Gli elementi che concorrono al funzionamento del network globale.
 ### [Perchè è necessario](perche.md) 
 Le ragioni alla base della sua adozione.
 
-## Come iniziare ad usarlo
+### [Come iniziare ad usarlo](uso.md)
 Portafogli digitali, nodi e lightning network.
 
-## Glossario
+### [Glossario](glossario.md)
 Una raccolta di termini che troverete durante la lettura.
 
-* [Glossario](glossario.md "Una raccolta di termini che troverete durante la lettura.")
-
-## Note
+### [Note](note.md)
 Bibliografia e riferimenti a risorse __esterne__.
-
-* [Note](note.md "Bibliografia e riferimenti a risorse esterne.")
