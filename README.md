@@ -22,5 +22,9 @@ Portafogli digitali, nodi e lightning network.
 ## Glossario
 I termini che potreste trovare durante la lettura.
 
+* [Glossario](glossario.md)
+
 ## Note
 Riferimenti a risorse __esterne__.
+
+* [Note](note.md)
