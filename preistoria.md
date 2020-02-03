@@ -1,3 +1,3 @@
-[che cos'è](cosa.md) - [indice](README.md)
+[indietro](cosa.md) - [indice](README.md)
 
 # Preistoria
