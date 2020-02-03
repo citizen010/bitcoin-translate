@@ -11,7 +11,7 @@ La preistoria, la storia e le evoluzioni del protocollo Bitcoin.
 ### [Come funziona](come.md)
 Gli elementi che concorrono al funzionamento del network globale.
 
-## Perchè è necessario 
+### [Perchè è necessario](perche.md) 
 Le ragioni alla base della sua adozione.
 
 ## Come iniziare ad usarlo
