@@ -1,3 +1,3 @@
 [indietro](cosa.md) - [indice](README.md)
 ## Satoshi Nakamoto
-Lo pseudonimo dell'inventore della cryptovaluta bitcoin
+Lo pseudonimo dell'inventore della criptovaluta bitcoin
