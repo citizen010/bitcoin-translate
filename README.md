@@ -14,4 +14,4 @@ Tutto il materiale qui presente è in lingua italiana. La terminologia tecnica n
 * ### [Risorse esterne](esterne.md "Bibliografia e riferimenti a risorse esterne.")
 
 # Nota bene
-> Il materiale raccolto non ha la pretesa di essere in alcun modo esaustivo ne completo. E' solo un tentativo di organizzare logicamente varie risorse utili ad acquisire una conoscenza generale sull'argomento __bitcoin__. Alcuni materiali sono frutto di traduzione (in tutto o in parte) da originali perlopiù in inglese, di cui viene sempre fornito il riferimento esterno. 
+> Il materiale raccolto non ha la pretesa di essere in alcun modo esaustivo ne completo. E' solo un tentativo di organizzare logicamente varie risorse utili ad acquisire una conoscenza generale sull'argomento __bitcoin__. Alcuni materiali sono frutto di traduzione - in tutto o in parte - di originali perlopiù in lingua inglese di cui viene sempre fornito il riferimento esterno. 
