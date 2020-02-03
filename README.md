@@ -16,3 +16,9 @@ Le ragioni alla base della sua adozione.
 
 ## Come iniziare ad usarlo
 Portafogli digitali, nodi e lightning network.
+
+## Glossario
+I termini che potreste trovare durante la lettura.
+
+## Note
+Riferimenti a risorse __esterne__.
