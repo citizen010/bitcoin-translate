@@ -17,6 +17,9 @@ Le ragioni alla base della sua adozione.
 * ### [Come iniziare ad usarlo](uso.md)
 Portafogli digitali, nodi e lightning network.
 
+* ### [Sicurezza](sicurezza.md)
+Accorgimenti per un utilizzo sicuro e privato.
+
 * ### [Glossario](glossario.md)
 Una raccolta di termini che troverete durante la lettura.
 
