@@ -1,1 +1,2 @@
+[indice](README.md)
 # Glossario
