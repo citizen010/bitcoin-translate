@@ -21,4 +21,4 @@ Questo __non è__ un consiglio finanziario e non rappresenta un incentivo a comp
 
 Se sei comunque deciso ad invesire qualsiasi importo __FAI LE TUE RICERCHE__ e, soprattutto, segui sempre la regola d'oro : __mai investire denaro che non puoi permetterti di perdere__.
 
-Bitcoin è un sistema rivoluzionario molto complesso con una curva di apprendimento "ripida". Assicurati di avere una conoscenza quanto più completa possibile del sistema __prima__ di investire in esso una considerevola somma di denaro.
+Bitcoin è un sistema rivoluzionario molto complesso e con una curva di apprendimento "ripida". Assicurati di avere una conoscenza quanto più completa possibile __prima__ di investire in esso una considerevola somma di denaro.
