@@ -7,7 +7,8 @@ Tutto il materiale qui presente è in lingua italiana. La terminologia tecnica n
 
 ## Che cos'è
 La preistoria, la storia e le evoluzioni del protocollo Bitcoin.
-[Preistoria](preistoria.md "Cronologia degli eventi storici relativi a bitcoin prima che fosse rilasciato al pubblico.")
+
+* [Preistoria](preistoria.md "Cronologia degli eventi storici relativi a bitcoin prima che fosse rilasciato al pubblico.")
 
 ## Come funziona
 Gli elementi che concorrono al funzionamento del network globale.
