@@ -22,9 +22,9 @@ Portafogli digitali, nodi e lightning network.
 ## Glossario
 I termini che potreste trovare durante la lettura.
 
-* [Glossario](glossario.md)
+* [Glossario](glossario.md "Una raccolta di termini di uso comune e non.")
 
 ## Note
 Riferimenti a risorse __esterne__.
 
-* [Note](note.md)
+* [Note](note.md "Note bibliografiche e collegamenti a meriale informativo presente su altri siti.")
