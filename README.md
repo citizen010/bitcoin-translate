@@ -15,7 +15,7 @@ Gli elementi che concorrono al funzionamento del network globale.
 Le ragioni alla base della sua adozione.
 
 * ### [Come iniziare ad usarlo](uso.md)
-Portafogli digitali, nodi e lightning network.
+Portafogli digitali e lightning network.
 
 * ### [Sicurezza](sicurezza.md)
 Accorgimenti per un utilizzo sicuro e privato.
