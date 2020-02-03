@@ -11,4 +11,4 @@ Tutto il materiale qui presente è in lingua italiana. La terminologia tecnica n
 * ### [Come iniziare ad usarlo](uso.md "Portafogli digitali e lightning network.")
 * ### [Sicurezza](sicurezza.md "Accorgimenti per un utilizzo sicuro e privato.")
 * ### [Glossario](glossario.md "Una raccolta di termini che troverete durante la lettura.")
-* ### [Note](note.md "Bibliografia e riferimenti a risorse esterne.")
+* ### [Risorse esterne](esterne.md "Bibliografia e riferimenti a risorse esterne.")
