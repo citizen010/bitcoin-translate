@@ -17,7 +17,7 @@ Tutto il materiale qui presente è in lingua italiana. La terminologia tecnica n
 > Il materiale raccolto non ha la pretesa di essere in alcun modo esaustivo ne completo. E' solo un tentativo di organizzare logicamente varie risorse utili ad acquisire una conoscenza generale su __bitcoin__. Alcuni materiali sono frutto di traduzione - in tutto o in parte - di originali perlopiù in lingua inglese di cui viene sempre fornito il riferimento esterno. 
 
 # Attenzione
-Questo __non è__ un consiglio finanziario e non rappresenta un incentivo a comprare, vendere o detenere bitcoin o qualsiasi altra cryptovaluta.
+Quanto esposto __non rappresenta__ un incentivo a comprare, vendere o detenere bitcoin o qualsiasi altra cryptovaluta.
 
 Se sei comunque deciso ad invesire qualsiasi importo __FAI LE TUE RICERCHE__ e, soprattutto, segui sempre la regola d'oro : __mai investire denaro che non puoi permetterti di perdere__.
 
