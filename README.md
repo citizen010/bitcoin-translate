@@ -19,6 +19,6 @@ Tutto il materiale qui presente è in lingua italiana. La terminologia tecnica n
 # Attenzione
 Questo __non è__ un consiglio finanziario e non rappresenta un incentivo a comprare, vendere o detenere bitcoin o qualsiasi altra cryptovaluta.
 
-Se comunque hai deciso invesire qualsiasi importo __FAI LE TUE RICERCHE__ e, soprattutto, segui sempre la regola d'oro : __mai investire denaro che non puoi permetterti di perdere__.
+Se sei comunque deciso ad invesire qualsiasi importo __FAI LE TUE RICERCHE__ e, soprattutto, segui sempre la regola d'oro : __mai investire denaro che non puoi permetterti di perdere__.
 
 Bitcoin è un sistema rivoluzionario molto complesso con una curva di apprendimento "ripida". Assicurati di avere una conoscenza quanto più completa possibile del sistema __prima__ di investire in esso una considerevola somma di denaro.
