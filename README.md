@@ -20,11 +20,11 @@ Le ragioni alla base della sua adozione.
 Portafogli digitali, nodi e lightning network.
 
 ## Glossario
-I termini che potreste trovare durante la lettura.
+Una raccolta di termini che troverete durante la lettura.
 
-* [Glossario](glossario.md "Una raccolta di termini di uso comune e non che sicuramente troverete durante la lettura.")
+* [Glossario](glossario.md "Una raccolta di termini che troverete durante la lettura.")
 
 ## Note
-Riferimenti a risorse __esterne__.
+Bibliografia e riferimenti a risorse __esterne__.
 
-* [Note](note.md "Note bibliografiche e collegamenti a materiale informativo presente su altri siti.")
+* [Note](note.md "Bibliografia e riferimenti a risorse esterne.")
