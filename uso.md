@@ -1,2 +1,2 @@
 ## Come iniziare ad usarlo
-Portafogli digitali, nodi e lightning network.
+Portafogli digitali e lightning network.
