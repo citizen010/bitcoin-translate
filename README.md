@@ -3,7 +3,8 @@
 # Bitcoin in italiano
 La tana del bianconiglio tradotta in italiano.
 
-Tutto il materiale presentato è in lingua italiana. La terminologia tecnica non sarà tradotta (es: __lightning network__ non verrà tradotto in __rete di fulmini__) al fine di mantenere una coerenza con altro materiale reperibile in rete  e che, con ogni probabilità, sarà in lingua inglese. I siti __esterni__ a cui si fa riferimento sono (quasi) tutti __in inglese__. 
+Tutto il materiale presentato è in lingua italiana. La terminologia tecnica non sarà tradotta (es: __lightning network__ non verrà tradotto in __rete di fulmini__) al fine di mantenere una coerenza con altro materiale reperibile in rete.
+I siti __esterni__ a cui si fa riferimento sono (quasi) tutti __in inglese__. 
 
 ## Che cos'è
 La preistoria, la storia e le evoluzioni del protocollo Bitcoin.
