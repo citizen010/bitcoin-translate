@@ -17,8 +17,8 @@ Tutto il materiale qui presente è in lingua italiana. La terminologia tecnica n
 Il materiale raccolto non ha la pretesa di essere in alcun modo esaustivo ne completo. E' solo un tentativo di organizzare logicamente varie risorse utili ad acquisire una conoscenza generale su __bitcoin__. Alcuni materiali sono frutto di traduzione - in tutto o in parte - di originali perlopiù in lingua inglese di cui viene sempre fornito il riferimento esterno. 
 
 # Avviso
->:no_entry: Quanto esposto __non rappresenta__ un incentivo a comprare, vendere o detenere bitcoin o qualsiasi altra cryptovaluta.
+>:heavy_check_mark: Quanto esposto __non rappresenta__ un incentivo a comprare, vendere o detenere bitcoin o qualsiasi altra cryptovaluta.
 >
->:no_entry: Se sei comunque deciso ad invesire qualsiasi importo __FAI LE TUE RICERCHE__ e, soprattutto, segui sempre la regola d'oro : __mai investire denaro che non puoi permetterti di perdere__.
+>:heavy_check_mark: Se sei comunque deciso ad invesire qualsiasi importo __FAI LE TUE RICERCHE__ e, soprattutto, segui sempre la regola d'oro : __mai investire denaro che non puoi permetterti di perdere__.
 >
->:no_entry: Bitcoin è un sistema rivoluzionario molto complesso e con una curva di apprendimento "ripida". Assicurati di avere una conoscenza quanto più completa possibile __prima__ di investire in esso una considerevola somma di denaro.
+>:heavy_check_mark: Bitcoin è un sistema rivoluzionario molto complesso e con una curva di apprendimento "ripida". Assicurati di avere una conoscenza quanto più completa possibile __prima__ di investire in esso una considerevola somma di denaro.
