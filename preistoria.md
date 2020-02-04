@@ -2,7 +2,7 @@
 
 ## Preistoria
 Cronologia di eventi storici accaduti prima che Bitcoin fosse rilasciato al pubblico il 3 gennaio 2009.
-Ognuna di queste pubblicazioni ha contribuito a gettare le basi per quello che adesso conosciamo con il nome di protocollo Bitcoin, inventato - ma forse è meglio dire scoperto - da Satoshi Nakamoto.
+Ognuna di queste pubblicazioni ha contribuito a gettare le basi per quello che adesso conosciamo con il nome di protocollo Bitcoin, inventato - ma forse è meglio dire scoperto - da [Satoshi Nakamoto](sn.md).
 
 Per quanti volessero approfondire, all'indirizzo [https://btc.onosendai.eu/prehistory/](https://btc.onosendai.eu/prehistory) ho reso disponibili i collegamenti ai documenti elencati (tutti in lingua inglese).
 
