@@ -28,4 +28,4 @@ Bitcoin è un sistema rivoluzionario di una certa complessità e con una curva d
 Se usato correttamente, Bitcoin ti rende un individuo sovrano rispetto al tuo capitale: solo tu decidi come disporre dei tuoi bitcoin senza bisogno di permessi o intermediari (es: le banche).
 
 Da questo grande potere derivano grandi responsabilità:
->_non esiste un ufficio reclami a cui rivolgere le proprie lamentele in caso di errori o se si ritiene di essere stati truffati_, __ogni transazione correttamente completata è assolutamente irreversibile__ - _non importa se sia stata fatta per errore, con piena consapevolezza, sotto costrizione o perchè siete caduti preda di un raggiro_.
+>_non esiste un ufficio reclami a cui rivolgere le proprie lamentele in caso di errori o se si ritiene di essere stati truffati_, __ogni transazione è assolutamente irreversibile__ - _non importa se sia stata fatta per errore, con piena consapevolezza, sotto costrizione o perchè siete caduti preda di un raggiro_.
