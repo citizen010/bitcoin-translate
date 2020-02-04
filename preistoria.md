@@ -1,10 +1,10 @@
 [indietro](cosa.md) - [indice](README.md)
 
 # Preistoria
-1974 - Cerf and Khan, "A Protocol for Packet Network Intercommunication - TCP/IP"
-1976 - Whitfiled Diffie and Martin Hellman, "New directions in Cryptography"
-1978 - RSA Public-key Cryptosystems
-1980 - Raplh Merkle, "Protocols for public key cryptosystems"
+* 1974 - Cerf and Khan, "A Protocol for Packet Network Intercommunication - TCP/IP"
+* 1976 - Whitfiled Diffie and Martin Hellman, "New directions in Cryptography"
+* 1978 - RSA Public-key Cryptosystems
+* 1980 - Raplh Merkle, "Protocols for public key cryptosystems"
 1981 - David Chaum, "Untraceable Electronic Mail, Return Address and Digital Pseudonyms"
 1982 - Murray Rothbard, "The Ethics of Liberty"
 1983 - David Chaum, "Bind Signatures for Untraceable Payments"
