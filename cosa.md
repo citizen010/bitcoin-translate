@@ -1,5 +1,5 @@
 [indice](README.md)
-## Che cos'è
+# Che cos'è
 La preistoria, la storia, le evoluzioni e lo stato attuale del protocollo Bitcoin.
 
 * [Preistoria (1974-2008)](preistoria.md "Cronologia di eventi storici prima che bitcoin fosse rilasciato al pubblico.")
