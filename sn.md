@@ -1,3 +1,7 @@
 [indietro](cosa.md) - [indice](README.md)
 ## Satoshi Nakamoto
-Lo pseudonimo dietro l'invenzione della criptovaluta Bitcoin.
+Satoshi Nakamoto (中本哲史 Nakamoto Satoshi?) è lo pseudonimo dell'inventore della criptovaluta Bitcoin (codice: BTC o XBT). Il termine "Bitcoin" fa riferimento anche al software open source progettato per implementare il protocollo di comunicazione e la rete peer-to-peer che ne risulta.
+
+Nel novembre del 2008 Satoshi Nakamoto pubblicò il protocollo Bitcoin su The Cryptography Mailing list sul sito metzdowd.com. Nel 2009 ha distribuito la prima versione del software client e successivamente ha contribuito al progetto in via anonima insieme ad altri sviluppatori, per ritirarsi dalla comunità di Bitcoin nel 2010. L'ultimo contatto da parte di Satoshi Nakamoto è stato nel 2011, quando dichiarò di essere passato ad altri progetti e di aver lasciato il Bitcoin in buone mani con Gavin Andresen.
+
+Le teorie sulla vera identità di Satoshi Nakamoto sono numerose. Nessuno sa se sia un "lui", una "lei" oppure se si tratti di più persone. In giapponese "satoshi" significa "un pensiero chiaro, veloce e saggio". "Naka" può significare "medium", "dentro" o "relazione". "Moto" può significare "origine" o "fondamento". Ma non è certo se questi significati siano utili a ricondurre alla persona o al gruppo di persone che ha inventato il sistema Bitcoin. 
