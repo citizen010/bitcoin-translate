@@ -15,7 +15,7 @@ Tutto il materiale qui presente è in lingua italiana. La terminologia tecnica n
 * ### [Risorse esterne](esterne.md "Bibliografia e riferimenti a risorse esterne.")
 
 ***
-Il __sito ufficiale__ del progetto è solo [bitcoin.org](https://bitcoin.org/it/), qualunque altro sito (es: bitcoin.com) __non è__ da considerarsi tale. 
+Il __solo sito ufficiale__ è [bitcoin.org](https://bitcoin.org/it/), qualunque altro sito (es: bitcoin.com) __non è__ da considerarsi tale. 
 ***
 # Nota dell'autore
 Il materiale raccolto non ha la pretesa di essere in alcun modo esaustivo ne completo. E' solo un tentativo di organizzare logicamente varie risorse utili ad acquisire una conoscenza generale su __bitcoin__. Alcuni materiali sono frutto di traduzione - in tutto o in parte - di originali perlopiù in lingua inglese di cui viene comunque fornito il riferimento esterno. 
