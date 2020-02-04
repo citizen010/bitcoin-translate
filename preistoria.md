@@ -4,7 +4,7 @@
 Cronologia di eventi storici accaduti prima che Bitcoin fosse rilasciato al pubblico.
 Ognuna di queste pubblicazioni ha contribuito a gettare le basi per quello che adesso conosciamo con il nome di protocollo Bitcoin, inventato - ma forse è meglio dire scoperto - da Satoshi Nakamoto.
 
-Per coloro che volessero approfondire, all'indirizzo [https://btc.onosendai.eu/prehistory/](https://btc.onosendai.eu/prehistory) ho reso disponibile i collegamenti ai documenti elencati (tutti in lingua inglese).
+Per coloro che volessero approfondire, all'indirizzo [https://btc.onosendai.eu/prehistory/](https://btc.onosendai.eu/prehistory) ho reso disponibili i collegamenti ai documenti elencati (tutti in lingua inglese).
 
 * 1974 - Cerf and Khan, "A Protocol for Packet Network Intercommunication - TCP/IP"
 * 1976 - Whitfiled Diffie and Martin Hellman, "New directions in Cryptography"
