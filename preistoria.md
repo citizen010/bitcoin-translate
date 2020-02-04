@@ -2,7 +2,7 @@
 
 # Preistoria
 Cronologia di eventi storici accaduti prima che Bitcoin fosse rilasciato al pubblico.
-Ognuna di queste pubblicazioni ha contribuito a gettare le basi per quello che adesso comosciamo con il nome di protocollo Bitcoin. 
+Ognuna di queste pubblicazioni ha contribuito a gettare le basi per quello che adesso conosciamo con il nome di protocollo Bitcoin. 
 
 Per coloro che volessero approfondire, all'indirizzo [https://btc.onosendai.eu/prehistory/](https://btc.onosendai.eu/prehistory) ho reso disponibile i collegamenti ai documenti elencati (tutti in lingua inglese).
 
