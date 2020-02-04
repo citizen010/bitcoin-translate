@@ -38,4 +38,4 @@ Per coloro che volessero approfondire, all'indirizzo [https://btc.onosendai.eu/p
 * 2006 - Liberty Reserve
 * 2008 - Lehman Brothers Bankruptcy (Sep 15, 2008)
 * 2008 - Satoshi Nakamoto, "Bitcoin: A Peer-to-peer Electronic Cash System" (Oct 31, 2008)
-* 2009 - Bitcoin inception, "Chancellor on brink of second bailout for banks" (Jan 3, 2009)
+* 2009 - Bitcoin inception, "Chancellor on brink of second bailout for banks" (The Times - Jan 3, 2009)
