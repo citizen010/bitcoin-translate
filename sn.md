@@ -1,6 +1,6 @@
 [indietro](cosa.md) - [indice](README.md)
 ## Satoshi Nakamoto
-Satoshi Nakamoto (中本哲史 Nakamoto Satoshi?) è lo pseudonimo dell'inventore della criptovaluta Bitcoin (codice: BTC o XBT). Il termine "Bitcoin" fa riferimento anche al software open source progettato per implementare il protocollo di comunicazione e la rete peer-to-peer che ne risulta.
+Satoshi Nakamoto (中本哲史) è lo pseudonimo dell'inventore della criptovaluta Bitcoin (codice: BTC o XBT). Il termine "Bitcoin" fa riferimento anche al software open source progettato per implementare il protocollo di comunicazione e la rete peer-to-peer che ne risulta.
 
 Nel novembre del 2008 Satoshi Nakamoto pubblicò il protocollo Bitcoin su The Cryptography Mailing list sul sito metzdowd.com. Nel 2009 ha distribuito la prima versione del software client e successivamente ha contribuito al progetto in via anonima insieme ad altri sviluppatori, per ritirarsi dalla comunità di Bitcoin nel 2010. L'ultimo contatto da parte di Satoshi Nakamoto è stato nel 2011, quando dichiarò di essere passato ad altri progetti e di aver lasciato il Bitcoin in buone mani con Gavin Andresen.
 
