@@ -21,7 +21,7 @@ Il materiale presente in questo repository non ha la pretesa di essere in alcun 
 ***
 
 # Nota dell'autore
-Se hai deciso di investire qualsiasi importo __FAI LE TUE RICERCHE__ (in inglese [__DYOR__](glossario.md#dyor) - Do Your Own Research) e, soprattutto, assicurati di seguire sempre la regola aurea : __mai investire denaro che non puoi permetterti di perdere__.
+Se hai deciso di investire qualsiasi importo __FAI LE TUE RICERCHE__ (in inglese [__DYOR__](glossario.md#dyor) - _Do Your Own Research_) e, soprattutto, assicurati di seguire sempre la regola aurea : __mai investire denaro che non puoi permetterti di perdere__.
 
 Bitcoin è un sistema rivoluzionario di una certa complessità e con una curva di apprendimento "ripida". Assicurati di avere una conoscenza quanto più completa possibile __prima__ di investire in esso una considerevole somma di denaro.
 
