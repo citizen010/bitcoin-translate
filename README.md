@@ -14,6 +14,9 @@ Tutto il materiale qui presente è in lingua italiana. La terminologia tecnica n
 * ### [Glossario](glossario.md "Una raccolta di termini che troverete durante la lettura.")
 * ### [Risorse esterne](esterne.md "Bibliografia e riferimenti a risorse esterne.")
 
+***
+:warning: Il __sito ufficiale__ del progetto è solo [bitcoin.org](https://bitcoin.org/it/), qualunque altro sito (es: bitcoin.com) __non è__ da considerarsi tale. 
+***
 # Nota dell'autore
 Il materiale raccolto non ha la pretesa di essere in alcun modo esaustivo ne completo. E' solo un tentativo di organizzare logicamente varie risorse utili ad acquisire una conoscenza generale su __bitcoin__. Alcuni materiali sono frutto di traduzione - in tutto o in parte - di originali perlopiù in lingua inglese di cui viene comunque fornito il riferimento esterno. 
 
@@ -23,6 +26,3 @@ Il materiale raccolto non ha la pretesa di essere in alcun modo esaustivo ne com
 >Bitcoin è un sistema rivoluzionario di una certa complessità e con una curva di apprendimento "ripida". Assicurati di avere una conoscenza quanto più completa possibile __prima__ di investire in esso una considerevole somma di denaro.
 >
 >Se usato correttamente, Bitcoin ti rende un individuo sovrano rispetto al tuo capitale: solo tu decidi come disporre dei tuoi bitcoin senza bisogno di permessi o intermediari (es: le banche). Da questo grande potere derivano grandi responsabilità: __non esiste un ufficio reclami a cui rivolgere le proprie lamentele in caso di errori, ogni transazione correttamente completata è assolutamente irreversibile - che sia stata fatta per errore o meno__.
-
-***
-:warning: Il __sito ufficiale__ del progetto è solo [bitcoin.org](https://bitcoin.org/it/), qualunque altro sito (es: bitcoin.com) __non è__ da considerarsi tale. 
