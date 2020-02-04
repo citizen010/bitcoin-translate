@@ -14,7 +14,7 @@ Per coloro che volessero approfondire, all'indirizzo [https://btc.onosendai.eu/p
 * 1982 - Murray Rothbard, "The Ethics of Liberty"
 * 1983 - David Chaum, "Bind Signatures for Untraceable Payments"
 * 1985 - Neal Koblitz, "Elliptic Curve Cryptography"
-* 1988 - Timothy C. May, The Crypto-Anarchist's Manifesto"
+* 1988 - Timothy C. May, "The Crypto-Anarchist's Manifesto"
 * 1989 - David Chaum, founded Digicash
 * 1991 - Philip Zimmermann, "Pretty Good Privacy - PGP"
 * 1991 - S. Haber, W.S. Stornetta, "How to time-stamp a digital document"
