@@ -14,14 +14,13 @@ Questo repository è totalmente in lingua italiana. La terminologia tecnica non 
 * ### [Glossario](glossario.md "Una raccolta di termini che troverete durante la lettura.")
 * ### [Risorse esterne](esterne.md "Bibliografia e riferimenti a risorse esterne.")
 
-# Nota dell'autore
 ***
 Il __solo sito ufficiale__ è [bitcoin.org](https://bitcoin.org/it/), qualunque altro sito (specialmente _bitcoin.com_) __non è__ da considerarsi tale. 
 
 Il materiale presente in questo repository non ha la pretesa di essere in alcun modo esaustivo ne completo. E' solo un tentativo di organizzare logicamente varie risorse utili ad acquisire una conoscenza generale su __bitcoin__. Alcuni materiali sono frutto di traduzione - in tutto o in parte - di originali perlopiù in lingua inglese di cui viene comunque fornito il riferimento esterno. 
 ***
 
-# Avviso
+# Nota dell'autore
 Se hai deciso di investire qualsiasi importo __FAI LE TUE RICERCHE__ e, soprattutto, assicurati di seguire sempre la regola aurea : __mai investire denaro che non puoi permetterti di perdere__.
 
 Bitcoin è un sistema rivoluzionario di una certa complessità e con una curva di apprendimento "ripida". Assicurati di avere una conoscenza quanto più completa possibile __prima__ di investire in esso una considerevole somma di denaro.
