@@ -24,5 +24,5 @@ Il materiale raccolto non ha la pretesa di essere in alcun modo esaustivo ne com
 >
 >Se usato correttamente, Bitcoin ti rende un individuo sovrano rispetto al tuo capitale: solo tu decidi come disporre dei tuoi bitcoin senza bisogno di permessi o intermediari (es: le banche). Da questo grande potere derivano grandi responsabilità: __non esiste un ufficio reclami a cui rivolgere le proprie lamentele in caso di errori, ogni transazione correttamente completata è assolutamente irreversibile - che sia stata fatta per errore o meno__.
 
-# Attenzione
+***
 :warning: Il __sito ufficiale__ del progetto è solo [bitcoin.org](https://bitcoin.org/it/), qualunque altro sito (es: bitcoin.com) __non è__ da considerarsi tale. 
