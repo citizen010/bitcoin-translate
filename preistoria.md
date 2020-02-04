@@ -4,7 +4,7 @@
 Cronologia di eventi storici accaduti prima che Bitcoin fosse rilasciato al pubblico.
 Ognuna di queste pubblicazioni ha gettato le basi per quello che adesso comosciamo con il nome di protocollo Bitcoin. 
 
-Per coloro che volessero approfondire, all'indirizzo [https://btc.onosendai.eu/prehistory/](https://btc.onosendai.eu/prehistory) è disponibile un sito contenente tutti i link ai documenti elencati. 
+Per coloro che volessero approfondire, all'indirizzo [https://btc.onosendai.eu/prehistory/](https://btc.onosendai.eu/prehistory) ho reso disponibile un sito contenente i link ai documenti elencati (tutti in lingua inglese).
 
 * 1974 - Cerf and Khan, "A Protocol for Packet Network Intercommunication - TCP/IP"
 * 1976 - Whitfiled Diffie and Martin Hellman, "New directions in Cryptography"
