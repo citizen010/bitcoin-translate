@@ -27,7 +27,7 @@
 * 1998 - Wei Dai, "B-money - decentralized database to record txs and using a type of proof-of-work"
 * 1999 - 2001 - Many online retailer currencies in the dotcom bubble (Beenz, Flooz, etc.)
 * 2001 - Video game currencies and market (era started in 2001)
-* 2001 - Distrubuted Hash Tables
+* 2001 - Distributed Hash Tables
 * 2001 - Bram Cohen, "BitTorrent"
 * 2004 - Hal Finney, "Reusable Proof-of-work"
 * 2006 - Liberty Reserve
