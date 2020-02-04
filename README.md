@@ -25,7 +25,7 @@ Se hai deciso di investire qualsiasi importo __FAI LE TUE RICERCHE__ (_spesso ab
 
 Bitcoin è un sistema rivoluzionario di una certa complessità e con una curva di apprendimento ripida. Assicurati di avere una conoscenza quanto più completa possibile __prima__ di investire in esso una considerevole somma di denaro.
 
-Se usato correttamente, Bitcoin ti rende un individuo sovrano rispetto al tuo capitale: solo tu decidi come disporre dei tuoi bitcoin senza bisogno di permessi o intermediari (es: le banche).
+Se usato correttamente, Bitcoin ti rende un individuo sovrano rispetto al tuo capitale: solo tu decidi come disporre dei tuoi bitcoin senza bisogno di permessi o intermediari (es: le banche). Avrai inoltre la sicurezza che nessuno possa mai fermare o confiscare i tuoi capitali senza il tuo consenso.
 
 Da questo grande potere derivano grandi responsabilità:
 >_Non esiste un ufficio reclami a cui rivolgere le proprie lamentele in caso di errori o se si ritiene di essere stati truffati_ - __ogni transazione è assolutamente irreversibile__ - _non importa se sia stata fatta per errore, con piena consapevolezza, sotto costrizione o perchè siete caduti preda di un raggiro. __Tu sei l'unico responsabile delle tue azioni___.
