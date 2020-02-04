@@ -17,7 +17,7 @@ Questo repository è totalmente in lingua italiana. La terminologia tecnica non 
 ***
 Il __solo sito ufficiale__ è [bitcoin.org](https://bitcoin.org/it/), qualunque altro sito (specialmente _bitcoin.com_) __non è__ da considerarsi tale. 
 
-Il materiale presente in questo repository non ha la pretesa di essere in alcun modo esaustivo ne completo. E' solo un tentativo di organizzare logicamente varie risorse utili ad acquisire una conoscenza generale su __bitcoin__. Alcuni materiali sono frutto di traduzione - in tutto o in parte - di originali perlopiù in lingua inglese di cui viene comunque fornito il riferimento esterno. 
+Il materiale presente in questo repository non ha la pretesa di essere in alcun modo esaustivo nè completo. E' solo un tentativo di organizzare logicamente varie risorse utili ad acquisire una conoscenza generale su __bitcoin__. Alcuni materiali sono frutto di traduzione - in tutto o in parte - di originali perlopiù in lingua inglese di cui viene comunque fornito il riferimento esterno. 
 ***
 
 # Nota dell'autore
