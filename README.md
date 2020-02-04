@@ -3,7 +3,7 @@
 # Bitcoin in italiano
 Viaggio (senza ritorno) nella tana del bianconiglio.
 
-Tutto il materiale qui presente è in lingua italiana. La terminologia tecnica non è tradotta (es: __lightning network__ non è tradotto in __rete di fulmini__) al fine di mantenere una coerenza con altro materiale reperibile in rete. Le risorse __esterne__ cui si fa riferimento sono (quasi) tutte in lingua __inglese__. 
+Tutto il materiale che compone questo repository è in lingua italiana. La terminologia tecnica non è tradotta (es: __lightning network__ non è tradotto in __rete di fulmini__) al fine di mantenere una coerenza con altro materiale reperibile in rete. Le risorse __esterne__ cui si fa riferimento sono (quasi) tutte in lingua __inglese__. 
 
 * ### [Introduzione](intro.md "Sul concetto di denaro e sulle sue proprietà")
 * ### [Che cos'è](cosa.md "La preistoria, la storia e le evoluzioni del protocollo Bitcoin.")
@@ -18,7 +18,7 @@ Tutto il materiale qui presente è in lingua italiana. La terminologia tecnica n
 ***
 Il __solo sito ufficiale__ è [bitcoin.org](https://bitcoin.org/it/), qualunque altro sito (es: bitcoin.com) __non è__ da considerarsi tale. 
 ***
-Il materiale qui raccolto non ha la pretesa di essere in alcun modo esaustivo ne completo. E' solo un tentativo di organizzare logicamente varie risorse utili ad acquisire una conoscenza generale su __bitcoin__. Alcuni materiali sono frutto di traduzione - in tutto o in parte - di originali perlopiù in lingua inglese di cui viene comunque fornito il riferimento esterno. 
+Il materiale che trovere su questo repository non ha la pretesa di essere in alcun modo esaustivo ne completo. E' solo un tentativo di organizzare logicamente varie risorse utili ad acquisire una conoscenza generale su __bitcoin__. Alcuni materiali sono frutto di traduzione - in tutto o in parte - di originali perlopiù in lingua inglese di cui viene comunque fornito il riferimento esterno. 
 
 # Avviso
 >Se hai deciso di investire qualsiasi importo __FAI LE TUE RICERCHE__ e, soprattutto, assicurati di seguire sempre la regola aurea : __mai investire denaro che non puoi permetterti di perdere__.
