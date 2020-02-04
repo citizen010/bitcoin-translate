@@ -21,8 +21,8 @@ Il __solo sito ufficiale__ è [bitcoin.org](https://bitcoin.org/it/), qualunque 
 Il materiale presente in questo repository non ha la pretesa di essere in alcun modo esaustivo ne completo. E' solo un tentativo di organizzare logicamente varie risorse utili ad acquisire una conoscenza generale su __bitcoin__. Alcuni materiali sono frutto di traduzione - in tutto o in parte - di originali perlopiù in lingua inglese di cui viene comunque fornito il riferimento esterno. 
 
 # Avviso
->Se hai deciso di investire qualsiasi importo __FAI LE TUE RICERCHE__ e, soprattutto, assicurati di seguire sempre la regola aurea : __mai investire denaro che non puoi permetterti di perdere__.
->
->Bitcoin è un sistema rivoluzionario di una certa complessità e con una curva di apprendimento "ripida". Assicurati di avere una conoscenza quanto più completa possibile __prima__ di investire in esso una considerevole somma di denaro.
->
->Se usato correttamente, Bitcoin ti rende un individuo sovrano rispetto al tuo capitale: solo tu decidi come disporre dei tuoi bitcoin senza bisogno di permessi o intermediari (es: le banche). Da questo grande potere derivano grandi responsabilità: __non esiste un ufficio reclami a cui rivolgere le proprie lamentele in caso di errori, ogni transazione correttamente completata è assolutamente irreversibile - che sia stata fatta per errore o meno__.
+Se hai deciso di investire qualsiasi importo __FAI LE TUE RICERCHE__ e, soprattutto, assicurati di seguire sempre la regola aurea : __mai investire denaro che non puoi permetterti di perdere__.
+
+Bitcoin è un sistema rivoluzionario di una certa complessità e con una curva di apprendimento "ripida". Assicurati di avere una conoscenza quanto più completa possibile __prima__ di investire in esso una considerevole somma di denaro.
+
+Se usato correttamente, Bitcoin ti rende un individuo sovrano rispetto al tuo capitale: solo tu decidi come disporre dei tuoi bitcoin senza bisogno di permessi o intermediari (es: le banche). Da questo grande potere derivano grandi responsabilità: __non esiste un ufficio reclami a cui rivolgere le proprie lamentele in caso di errori, ogni transazione correttamente completata è assolutamente irreversibile - che sia stata fatta per errore o meno__.
