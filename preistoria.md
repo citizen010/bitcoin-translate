@@ -1,6 +1,6 @@
 [indietro](cosa.md) - [indice](README.md)
 
-# Preistoria
+## Preistoria
 Cronologia di eventi storici accaduti prima che Bitcoin fosse rilasciato al pubblico il 3 gennaio 2009.
 Ognuna di queste pubblicazioni ha contribuito a gettare le basi per quello che adesso conosciamo con il nome di protocollo Bitcoin, inventato - ma forse è meglio dire scoperto - da Satoshi Nakamoto.
 
