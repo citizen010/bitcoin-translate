@@ -2,8 +2,8 @@
 # Risorse esterne
 ### Articoli
 * [The Bullish Case for Bitcoin](https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1) by Vijay Boyapati
-* [Modeling Bitcoin's Value with Scarcity](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25) by PlanB
 * [Planting Bitcoin](https://medium.com/@danhedl/planting-bitcoin-56bd1459cb23) by Dan Held
+* [Modeling Bitcoin's Value with Scarcity](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25) by PlanB
 
 ### Documenti
 * [Bitcoin official Whitepaper](https://bitcoin.org/bitcoin.pdf)
