@@ -23,6 +23,3 @@ Gli halving continueranno ad avere luogo fino a quando la ricompensa per i minat
 >Attualmente siamo vivendo la __3a era di halving__ delle 33 totali.
 
 Inoltre se i proprietari di Bitcoin continueranno a perdere le loro chiavi private, come troppo spesso ancora accade, si avrebbe un'ulteriore deflazione pari al numero di bitcoin controllati da ogni chiave privata persa. Praticamente un regalo a coloro che invece gestiscono correttamente le proprie chiavi private.
-
-#### Come questo incide sul prezzo di bitcoin
-Come puntualizzato prima, non è possibile copiare o contraffarre Bitcoin e l'ammontare totale è rigorosamente limitato. Tutte le transazioni sono scritte in blocchi - la famosa 'blockchain' - e ognuno può interagire solo con i fondi che fanno capo al proprio indirizzo bitcoin. Un indirizzo Bitcoin è una sorta di conto bancario nel quale puoi fare depositi, ma senza dare access alla chiave privata che è richiesta per fare prelievi. Qui è dove la "scarsità" comincia ad entrare in gioco. La definizione di scarsità è quando qualcosa è difficilmente ottenibile sia in natura sia in laboratorio; come ad esempio un metallo prezioso. Una volta che qualcosa diventa sufficientemente scarsa, può essere usata come denaro. 
