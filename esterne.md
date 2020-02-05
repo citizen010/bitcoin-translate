@@ -16,5 +16,7 @@
 * [Tales From The Crypt](https://tftc.io/podcasts/) by Marty Bent
 
 ### Siti
-* [La preistoria di Bitcoin](https://btc.onosendai.eu/prehistory)
+* [Bitcoin Magazine](https://bitcoinmagazine.com/)
+* [Bitcoin OpTech](https://bitcoinops.org/)
 * [Bitcoin stock to flow model live chart](https://digitalik.net/btc/)
+* [La preistoria di Bitcoin](https://btc.onosendai.eu/prehistory)
