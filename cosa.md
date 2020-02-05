@@ -5,7 +5,7 @@ La preistoria, la storia, le evoluzioni e lo stato attuale del protocollo Bitcoi
 * [Preistoria (1974-2008)](preistoria.md "Cronologia di eventi storici prima che bitcoin fosse rilasciato al pubblico.")
 * [L'inizio - Satoshi Nakamoto (2009)](sn.md "Lo pseudonimo dietro l'invenzione della criptovaluta Bitcoin.")
 
-Bitcoin è il primo oggetto digitale che non può essere copiato, duplicato o contraffatto. Questi sono  i principali attributi che gli conferiscono un valore unico. Bitcoin è la prima risorsa digitale scarsa conosciuta dall'umanità, ed è govrenata esclusivamente da meccanismi matematici e crittogrtafici.
+Bitcoin è il primo oggetto digitale che non può essere copiato, duplicato o contraffatto. Questi sono  i principali attributi che gli conferiscono un valore unico. Bitcoin è la prima risorsa digitale scarsa conosciuta dall'umanità, ed è govrenata esclusivamente dalla matematica e dalla crittografia.
 
 Ogni bitcoin è [minato](glossario.md#minare) da un cosiddetto [blocco](glossario.md#blocco). Un blocco sostanzialmente è 1MB di informazione che contiene tutte le transazioni che sono avvenute in un certo periodo di tempo. Un nuovo blocco viene generato circa ogni 10 minuti.
 
