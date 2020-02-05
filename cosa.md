@@ -20,6 +20,6 @@ Gli halving continueranno ad avere luogo fino a quando la ricompensa per i minat
 
 33 eventi di halving ogni 4 anni fanno in totale 132 anni. L'ultimo Bitcoin sarà dato alla luce nell'anno 2140. Sarà il 21 millionesimo ed ultimo Bitcoin a poter essere generato, dopodichè sarà __impossibile__ crearne altri. Da quel momento in avanti, Bitcoin diverrà veramente 'deflazionario', dato che sarà stata raggiunta la massima emissione possbile.
 
->Attualmente siamo nella __3a era di halving__ delle 33 totali.
+>Attualmente siamo vivendo la __3a epoca di halving__ delle 33 totali.
 
 Inoltre se i proprietari di Bitcoin continueranno a perdere le loro chiavi private, come troppo spesso ancora succede, si avrebbe un'ulteriore deflazione pari al numero di bitcoin controllati da ogni chiave privata. Praticamente un regalo a coloro che invece gestiscono correttamente le proprie chiavi private.
