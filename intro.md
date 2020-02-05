@@ -6,3 +6,11 @@ Per comprendere ed apprezzare appieno la tecnologia Bitcoin __è necessario capi
 * [Dai metalli preziosi alla carta](#carta)
 * [Che cos'è il denaro](#denaro)
 * [Le proprietà del denaro](#proprieta)
+
+(#storia)### Breve storia del denaro
+
+(#carta)### Dai metalil prezioni alla carta
+
+(#denaro)### Che cos'è il denaro
+
+(#proprieta)### Le proprietà del denaro
