@@ -9,7 +9,8 @@
 * [Bitcoin official Whitepaper](https://bitcoin.org/bitcoin.pdf)
 
 ### Libri
-* [The Bitcoin Standard](https://saifedean.com/the-book/) by  Saifedean Ammous
+* [The Bitcoin Standard](https://saifedean.com/the-book/) by Saifedean Ammous
+* [Mastering Bitcoin](https://www.amazon.it/Mastering-Bitcoin-Traduzione-italiana-blockchain/dp/1081849118?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffsb-it-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1081849118) by Andreas M. Antonopoulos
 * [21 Lessons](https://21lessons.com/) by Gigi
 * [Domande e risposte su Bitcoin](https://qabitcoin.davidcoen.it/product/domande-e-risposte-su-bitcoin-versione-cartacea/) by David Coen
 
