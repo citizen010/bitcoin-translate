@@ -1,6 +1,7 @@
 [indice](README.md)
 # Risorse esterne
 ### Articoli
+* [The Bullish Case for Bitcoin](https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1) by Vijay Boyapati
 * [Modeling Bitcoin's Value with Scarcity](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25) by PlanB
 
 ### Documenti
