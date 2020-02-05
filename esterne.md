@@ -9,6 +9,7 @@
 
 ### Libri
 * [The Bitcoin Standard](https://saifedean.com/the-book/) by  Saifedean Ammous
+* [21 Lessons](https://21lessons.com/) by Gigi
 * [Domande e risposte su Bitcoin](https://qabitcoin.davidcoen.it/product/domande-e-risposte-su-bitcoin-versione-cartacea/) by David Coen
 
 ### Podcast
