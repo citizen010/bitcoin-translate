@@ -1,5 +1,8 @@
 [indice](README.md)
 ## Introduzione
-* [Breve storia del denaro](#denaro)
-* [Dai metalli preziosi alla carta](#metal)
-* [FIAT money](#fiat)
+Per comprendere ed apprezzare appieno la tecnologia Bitcoin __è necessario capire__ cosa sia e come funzioni il denaro. In questo capitolo rispondere a domande come: Che cos'è il denaro ? Perchè porto in tasca €uro fatti di carta ? Per quale motivo vengono accettati in cambio di beni e servizi ?
+
+* [Breve storia del denaro](#storia)
+* [Dai metalli preziosi alla carta](#carta)
+* [Che cos'è il denaro](#denaro)
+* [Le proprietà del denaro](#proprieta)
