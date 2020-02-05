@@ -5,7 +5,7 @@
 * [Modeling Bitcoin's Value with Scarcity](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25) by PlanB
 
 ### Documenti
-* [Il protocollo Bitcoin](https://bitcoin.org/bitcoin.pdf) (Whitepaper ufficiale)
+* [Bitcoin official Whitepaper](https://bitcoin.org/bitcoin.pdf)
 
 ### Libri
 * [The Bitcoin Standard](https://saifedean.com/the-book/) by  Saifedean Ammous
