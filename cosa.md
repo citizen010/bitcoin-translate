@@ -22,4 +22,4 @@ Gli halving continueranno ad avere luogo fino a quando la ricompensa per i minat
 
 >Attualmente siamo vivendo la __3a era di halving__ delle 33 totali.
 
-Inoltre se i proprietari di Bitcoin continueranno a perdere le loro chiavi private, come troppo spesso ancora succede, si avrebbe un'ulteriore deflazione pari al numero di bitcoin controllati da ogni chiave privata persa. __Praticamente un regalo a coloro che invece gestiscono correttamente le proprie chiavi private__.
+Inoltre se i proprietari di Bitcoin continueranno a perdere le loro chiavi private, come troppo spesso ancora accade, si avrebbe un'ulteriore deflazione pari al numero di bitcoin controllati da ogni chiave privata persa. __Praticamente un regalo a coloro che invece gestiscono correttamente le proprie chiavi private__.
