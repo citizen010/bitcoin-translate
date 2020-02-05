@@ -20,6 +20,7 @@
 * [Tales From The Crypt](https://tftc.io/podcasts/) by Marty Bent
 
 ### Siti
+* [Bitcoin - il sito ufficiale](https://bitcoin.org/it/)
 * [Bitcoin Magazine](https://bitcoinmagazine.com/)
 * [Bitcoin OpTech Newsletter](https://bitcoinops.org/)
 * [Bitcoin stock to flow model live chart](https://digitalik.net/btc/)
