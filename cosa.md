@@ -18,10 +18,10 @@ In altre parole dal blocco 210.000 in avanti la ricomprensa si dimezza a 25 BTC,
 #### Importanza degli halving
 Gli halving continueranno ad avere luogo fino a quando la ricompensa per i minatori non raggiungerà 0 BTC. Siccome Bitcoin può essere suddiviso in 8 cifre decimali, dopo il 33mo halving, il valore della ricompensa sarà precisamente 0 BTC.
 
-33 eventi di halving ogni 4 anni fanno in totale 132 anni. L'ultimo Bitcoin sarà dato alla luce nell'anno 2140. Sarà il 21 millionesimo ed ultimo Bitcoin a poter essere generato, dopodichè sarà __impossibile__ crearne altri. Da quel momento in avanti, Bitcoin diverrà veramente 'deflazionario', dato che sarà stata raggiunta la massima emissione possbile.
+33 eventi di halving ogni 4 anni fanno in totale 132 anni. L'ultimo Bitcoin sarà dato alla luce nell'anno 2140. Sarà il 21 millionesimo ed ultimo bitcoin a poter essere generato, dopodichè sarà __impossibile__ crearne altri. Da quel momento in avanti, bitcoin diverrà veramente 'deflazionario', dato che sarà stata raggiunta la massima emissione possbile.
 
 >Attualmente siamo vivendo la __3a era di halving__ delle 33 totali.
 
-Inoltre se i proprietari di Bitcoin continueranno a perdere le loro chiavi private, come troppo spesso ancora accade, si avrebbe un'ulteriore deflazione pari al numero di bitcoin controllati da ogni chiave privata persa. Praticamente un regalo a coloro che invece gestiscono correttamente le proprie chiavi private.
+Inoltre se i proprietari di bitcoin continueranno a perdere le loro chiavi private, come troppo spesso ancora accade, si avrebbe un'ulteriore deflazione pari al numero di bitcoin controllati da ogni chiave privata persa. Praticamente un regalo a coloro che invece gestiscono correttamente le proprie chiavi private.
 
 In definitiva gli halving riducono l'emissione di bitcoin nel tempo rendendolo, ogni volta, una risorsa sempre più scarsa e di conseguenza sempre più preziosa. Pensate a questo: cosa succederebbe al prezzo dell'oro se da domani se ne potesse produrre solo la metà rispetto a oggi ? E tra 4 anni la metà della metà rispetto a oggi ? Ovviamente il suo valore crescerebbe.
