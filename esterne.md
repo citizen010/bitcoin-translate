@@ -23,4 +23,5 @@
 * [Bitcoin Magazine](https://bitcoinmagazine.com/)
 * [Bitcoin OpTech Newsletter](https://bitcoinops.org/)
 * [Bitcoin stock to flow model live chart](https://digitalik.net/btc/)
+* [Marty's Bent Newsletter](https://tftc.io/martys-bent/)
 * [Bitcoin - La preistoria](https://btc.onosendai.eu/prehistory)
