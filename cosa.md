@@ -23,3 +23,5 @@ Gli halving continueranno ad avere luogo fino a quando la ricompensa per i minat
 >Attualmente siamo vivendo la __3a era di halving__ delle 33 totali.
 
 Inoltre se i proprietari di Bitcoin continueranno a perdere le loro chiavi private, come troppo spesso ancora accade, si avrebbe un'ulteriore deflazione pari al numero di bitcoin controllati da ogni chiave privata persa. Praticamente un regalo a coloro che invece gestiscono correttamente le proprie chiavi private.
+
+In definitiva gli halving riducono l'emissione di bitcoin nel tempo rendendolo, ogni volta, una risorsa sempre più scarsa e di conseguenza sempre più preziosa. Pensate a questo: cosa succederbbe al prezzo dell'oro se da domani se ne potesse produrre solo la metà rispetto a oggi ?   
