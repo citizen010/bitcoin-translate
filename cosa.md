@@ -11,7 +11,7 @@ Ogni bitcoin è [minato](glossario.md#minare) (cioè viene alla luce) da un cosi
 
 La rete Bitcoin ha continuato a generare blocchi, ininterrottamente, fin dal suo avvento. Il primo blocco ([genesis block](glossario.md#genesisblock)) fu generato il 3 Gennaio 2009 e la ricomprensa (reward) per averlo minato era pari a 50 bitcoins (BTC). Ogni blocco successivo ha avuto la stessa ricompensa, ma ogni 210.000 blocchi generarti ha luogo un evento chiamato [halving](glossario.md#halving) che riduce, della metà, la ricomprensa distribuita ai minatori da quel momento in avanti.
 
-In altre parole dal blocco 210.000 in avanti la ricomprensa si dimezza a 25 BTC, dal blocco 420.000 in avanti si dimezza a 12.5 BTC, e così via. Dato che i blocchi vengono generati ogni 10 minuti, questo evento (halving) ha luogo ogni 35.000 ore: quasi esattamente 4 anni.
+In altre parole dal blocco 210.000 in avanti la ricomprensa si dimezza a 25 BTC, dal blocco 420.000 in avanti si dimezza a 12.5 BTC, e così via. Dato che i blocchi vengono generati ogni 10 minuti, questo evento (halving) ha luogo ogni 35.000 ore cioè quasi esattamente 4 anni.
 
 >Il __prossimo halving__, atteso al blocco 630.000, è previsto a __Maggio 2020__ - la ricompensa verrà dimezzata a 6.25 BTC. 
 
