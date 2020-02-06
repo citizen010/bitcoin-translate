@@ -21,6 +21,7 @@ Il materiale presente in questo repository non ha la pretesa di essere in alcun 
 ***
 
 # Nota dell'autore
+Qualsiasi informazione tu possa trovare qui __non rappresenta__ una promozione finanziaria.
 Se hai deciso di investire qualsiasi importo __FAI LE TUE RICERCHE__ (_spesso abbreviato in_ [__DYOR__](glossario.md#dyor) - _Do Your Own Research_) e, soprattutto, assicurati di seguire sempre la regola aurea : __mai investire denaro che non puoi permetterti di perdere__.
 
 Bitcoin è un sistema rivoluzionario di una certa complessità e con una curva di apprendimento ripida. Assicurati di avere una conoscenza quanto più ampia possibile __prima__ di investire in esso una considerevole somma di denaro.
@@ -28,4 +29,4 @@ Bitcoin è un sistema rivoluzionario di una certa complessità e con una curva d
 Se usato correttamente, Bitcoin ti rende un individuo sovrano rispetto al tuo capitale: solo tu decidi come disporre dei tuoi bitcoin senza bisogno di permessi o intermediari (es: le banche). Avrai inoltre la sicurezza che nessuno possa mai fermare o confiscare i tuoi capitali senza il tuo consenso.
 
 Da questo grande potere derivano grandi responsabilità:
->_Non esiste un ufficio reclami a cui rivolgere le proprie lamentele in caso di errori o se si ritiene di essere stati truffati_ - __ogni transazione è assolutamente irreversibile__ - _non importa se sia stata fatta per errore, con piena consapevolezza, sotto costrizione o perchè siete caduti preda di un raggiro. __Tu sei l'unico responsabile delle tue azioni___.
+>_Non esiste un ufficio reclami a cui rivolgere le proprie lamentele in caso di errori o se ritieni di essere stato truffato_ - __ogni transazione è assolutamente irreversibile__ - _non importa se l'hai stata fatta per errore, con piena consapevolezza, sotto costrizione o perchè sei caduto preda di un raggiro. __Tu sei l'unico responsabile delle tue azioni___.
