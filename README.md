@@ -22,6 +22,7 @@ Il materiale presente in questo repository non ha la pretesa di essere in alcun 
 
 # Nota dell'autore
 Qualsiasi informazione tu possa trovare qui __non rappresenta__ una promozione finanziaria.
+
 Se hai deciso di investire qualsiasi importo __FAI LE TUE RICERCHE__ (_spesso abbreviato in_ [__DYOR__](glossario.md#dyor) - _Do Your Own Research_) e, soprattutto, assicurati di seguire sempre la regola aurea : __mai investire denaro che non puoi permetterti di perdere__.
 
 Bitcoin è un sistema rivoluzionario di una certa complessità e con una curva di apprendimento ripida. Assicurati di avere una conoscenza quanto più ampia possibile __prima__ di investire in esso una considerevole somma di denaro.
