@@ -1,6 +1,6 @@
 [indice](README.md)
 ## Come iniziare ad usarlo
-Il modo migliore per prendere confidenza con bitcoin è certamente iniziare ad usarlo. Segui il semplice elenco di passaggi per iniziare ad addentrarti nella tana del bianconiglio. Non sono richieste particolari capacità tecniche e tutto ciò che ti necessita è uno smartphone (Android / iOS) con connessione a internet e 10 euro.
+Il modo migliore per prendere confidenza con bitcoin è certamente iniziare ad usarlo. Non sono richieste particolari capacità tecniche e tutto ciò che ti necessita è uno smartphone (Android / iOS) con connessione a internet e 10 euro.
 
 - [ ] scarica ed installa l'applicazione __Green: Bitcoin Wallet__ sul tuo smartphone ([Android](https://play.google.com/store/apps/details?id=com.greenaddress.greenbits_android_wallet) / [iOS](https://apps.apple.com/app/id1402243590))
 - [ ] avvia l'applicazione __Green: Bitcoin Wallet__
