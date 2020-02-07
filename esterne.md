@@ -22,6 +22,7 @@
 
 ### Siti
 * [Bitcoin - il sito ufficiale](https://bitcoin.org/it/)
+* [Nakamoto Institute](https://nakamotoinstitute.org/)
 * [Bitcoin Magazine](https://bitcoinmagazine.com/)
 * [Bitcoin OpTech Newsletter](https://bitcoinops.org/)
 * [Bitcoin stock to flow model live chart](https://digitalik.net/btc/)
