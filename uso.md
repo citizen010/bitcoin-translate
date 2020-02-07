@@ -10,7 +10,7 @@ Il modo migliore per prendere confidenza con bitcoin è certamente iniziare ad u
 - [ ] scegli un PIN per proteggere il wallet e verificalo
 - [ ] per il momento, __non impostare__ l'autenticazione a due fattori, premi "__Vai al wallet__"
 - [ ] ora hai generato un nuovo wallet che contiene 0,00000000 BTC
-- [ ] acquista/procurati 10 euro di bitcoin (__QUESTA E' LA PARTE DIFFICILE__)
+- [ ] __QUESTA E' L'UNICA VERA DIFFILOLTA'__ acquista/procurati 10 euro di bitcoin
 - [ ] vedrai immediatamnete una transazione in stato "__non confermata__"
 - [ ] il totale __non sarà__ più uguale a 0,00000000 BTC - prendi nota del numero, servirà in seguito
 - [ ] attendi che la transazione sia stata confermata (10-15 min)
