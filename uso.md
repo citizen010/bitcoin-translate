@@ -5,7 +5,7 @@ Il modo migliore per prendere confidenza con bitcoin è certamente iniziare ad u
 - [ ] scarica ed installa l'applicazione __Green: Bitcoin Wallet__ sul tuo smartphone ([Android](https://play.google.com/store/apps/details?id=com.greenaddress.greenbits_android_wallet) / [iOS](https://apps.apple.com/app/id1402243590))
 - [ ] avvia l'applicazione __Green: Bitcoin Wallet__
 - [ ] crea un nuovo [wallet](glossario.md#wallet)
-- [ ] scrivi il seed (__le 24 parole esattamente in quell'ordine__) su un foglio di carta
+- [ ] scrivi il [seed](glossario.md#seed) (__le 24 parole esattamente in quell'ordine__) su un foglio di carta
 - [ ] il wallet ti chiederà di verificare il seed inserendo alcune delle parole di cui al punto precedente
 - [ ] scegli un PIN per proteggere il wallet e verificalo
 - [ ] per il momento, __non impostare__ l'autenticazione a due fattori, premi "__Vai al wallet__"
