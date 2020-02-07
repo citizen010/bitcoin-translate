@@ -21,7 +21,7 @@ Il modo migliore per prendere confidenza con bitcoin è certamente iniziare ad u
 - [ ] scrivi le 24 parole nell'ordine corretto e premi "__OK__"
 - [ ] scegli un PIN per proteggere il wallet e verificalo (può essere lo stesso di prima)
 - [ ] per il momento, __non impostare__ l'autenticazione a due fattori, premi "__Vai al wallet__"
-- [ ] verifica che l' importo corrisponda a quello di cui hai preso nota precedentemente
+- [ ] verifica che il totale corrisponda a quello di cui hai preso nota precedentemente
 
 __CONGRATULAZIONI__
 
