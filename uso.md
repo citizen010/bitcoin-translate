@@ -25,6 +25,6 @@ Il modo migliore per prendere confidenza con bitcoin è certamente iniziare ad u
 
 __CONGRATULAZIONI__
 
-ha correttamente portato a termine la creazione, il backup ed il ripristino di un wallet bitcoin oltre ad avere effettuato la tua prima transazione: ora anche tu puoi affermare di essere un __bitcoiner__. Ricorda di fare __un'ulteriore copia del seed__ da conservare in un luogo sicuro __diverso__ da quello dove custodisci la prima copia.
+hai correttamente portato a termine la creazione, il backup ed il ripristino di un wallet bitcoin oltre ad avere effettuato la tua prima transazione: ora anche tu puoi affermare di essere un __bitcoiner__. Ricorda di fare __un'ulteriore copia del seed__ da conservare in un luogo sicuro __diverso__ da quello dove custodisci la prima copia.
 
 >Qualora perdessi tutte le __copie del seed__ nessuno ti potrà aiutare ed i tuoi bitcoin saranno __persi per sempre__.
