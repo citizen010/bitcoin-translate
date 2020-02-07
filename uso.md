@@ -9,7 +9,7 @@ Il modo migliore per prendere confidenza con bitcoin è certamente iniziare ad u
 - [ ] il wallet ti chiederà di verificare il seed inserendo alcune delle parole di cui al punto precedente
 - [ ] scegli un PIN per proteggere il wallet e verificalo
 - [ ] per il momento, __non impostare__ l'autenticazione a due fattori, premi "__Vai al wallet__"
-- [ ] ora hai generato un nuovo wallet che contiene 0,00000000 BTC
+- [ ] quello che vedrai è un nuovo wallet che contiene 0,00000000 BTC
 - [ ] __QUESTA E' L'UNICA VERA DIFFICOLTA'__ acquista/procurati bitcoin
 - [ ] vedrai una nuova transazione in stato "__non confermata__"
 - [ ] il totale __non sarà__ più uguale a 0,00000000 BTC - prendi nota del numero, servirà in seguito
