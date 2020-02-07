@@ -5,3 +5,12 @@
 
 ## P
 * <a name="p2p"></a>__PEER-TO-PEER__ (_da pari a pari_) -  nelle telecomunicazioni indica un modello di architettura logica di rete informatica in cui i nodi sono tutti equivalenti o _paritari_ (peer), potendo fungere al contempo da client e server verso gli altri nodi della rete. Mediante questa configurazione, qualsiasi nodo è in grado di avviare o completare una transazione.
+
+## S
+* <a name="seed"></a>__SEED__ (seme) - descrizione seed
+
+## T
+* <a name="transazione"></a>__TRANSAZIONE__ - descrizione transazione
+
+## W
+* <a name="wallet"></a>__WALLET__ (portafoglio) - descrizione wallet
