@@ -13,7 +13,7 @@ Il modo migliore per prendere confidenza con bitcoin è certamente iniziare ad u
 - [ ] __QUESTA E' L'UNICA VERA DIFFICOLTA'__ acquista/procurati bitcoin
 - [ ] vedrai una nuova [transazione](glossario.md#transazione) in stato "__non confermata__"
 - [ ] il totale __non sarà__ più uguale a 0,00000000 BTC - prendi nota del numero, servirà in seguito
-- [ ] attendi che la transazione sia nello stato "-__confermata__" (10-15 min)
+- [ ] attendi che la transazione sia nello stato "__confermata__" (10-15 min)
 - [ ] disinstalla l'applicazione __Green: Bitcoin Wallet__ dal tuo smartphone (i tuoi bitcoin sono al sicuro, tranquillo)
 - [ ] reinstalla l'applicazione __Green: Bitcoin Wallet__ sul tuo smartphone
 - [ ] avvia l'applicazione __Green: Bitcoin Wallet__
