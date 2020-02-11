@@ -30,7 +30,7 @@
 
 ## S
 * <a name="seed"></a>__SEED__ (seme) - una frase, una lista di parole (di solito 12 o 24) che custodiscono tutta l'informazione necessaria a ripristinare i fondi di un portafolgio Bitcoin. I software wallet tipicamente generano questa frase e chiedono all'utente di farne una copia cartacea. In questo modo, se il computer usato smette di funzionare o il disco fisso si corrompe,  gli utenti possono riscaricare il software wallet ed usare la copia cartacea per rientrare in possesso dei loro bitcoins.
-Chiunque entri in possesso di questa frase può appropriarsi dei tuoi bitcoins, quindi deve essere mantenuta in un posto sicuro, e __non deve essere mai scritta sul qualunque sito web la richieda__. 
+Chiunque entri in possesso di questa frase può appropriarsi dei tuoi bitcoins, quindi deve essere mantenuta in un posto sicuro e __non deve essere mai scritta sul qualunque sito web la richieda__. 
 ## T
 * <a name="transazione"></a>__TRANSAZIONE__ - descrizione transazione
 
