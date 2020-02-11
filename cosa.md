@@ -5,6 +5,12 @@ La preistoria, la storia, le evoluzioni e lo stato attuale del protocollo Bitcoi
 * [Preistoria (1974-2008)](preistoria.md "Cronologia di eventi storici prima che bitcoin fosse rilasciato al pubblico.")
 * [L'inizio - Satoshi Nakamoto (2009)](sn.md "Lo pseudonimo dietro l'invenzione della criptovaluta Bitcoin.")
 
+Bitcoin è intrinsecamente difficile da descrivere. È una cosa totalmente nuova, e qualsiasi tentativo di fare un paragone con concetti precedenti, sia che si tratti di chiamarlo oro digitale o internet del denaro, è destinato a fallire. Qualunque sia la tua analogia preferita, due aspetti di Bitcoin sono assolutamente essenziali: decentralizzazione e immutabilità.
+
+Un modo di pensare a Bitcoin è come ad un contratto sociale automatizzato. Il software è solo un pezzo del puzzle e sperare di cambiare Bitcoin cambiando il software è un esercizio futile. Bisognerebbe convincere il resto della rete ad adottare i cambiamenti, che è più uno sforzo psicologico che uno di ingegneria del software.
+
+In generale, l'avanzamento della tecnologia sembra rendere le cose più abbondanti. Sempre più persone possono godere di quelli che in precedenza erano stati beni di lusso. Come scrisse Peter Diamandis in [Abundance](https://www.diamandis.com/abundance): “La tecnologia è un meccanismo di liberazione delle risorse. Può rendere ciò che era scarso abbondante. "
+
 Bitcoin è il primo oggetto digitale che non può essere copiato, duplicato o contraffatto. Questi sono  i principali attributi che gli conferiscono un valore unico. Bitcoin è la prima risorsa digitale scarsa conosciuta dall'umanità ed è governata esclusivamente dalle leggi della matematica e dalla crittografia.
 
 Ogni bitcoin è [minato](glossario.md#minare) (cioè viene alla luce) da un cosiddetto [blocco](glossario.md#blocco). Un blocco è composta da 1MB di informazione che tiene traccia di tutte le transazioni avvenute in un certo periodo di tempo. Un nuovo blocco viene generato circa ogni 10 minuti.
