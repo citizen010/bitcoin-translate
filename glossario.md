@@ -1,7 +1,7 @@
 [indice](README.md)
 ## Glossario
 ## B
-* <a name="blocco"></a>__BLOCCO__ - nn blocco è una parte della [blockchain](#blockchain) che contiene e conferma molte transazioni in attesa. In media circa ogni 10 minuti un nuovo blocco, che include delle transazioni, viene aggiunto alla blockchain attraverso il processo di [mining](#minare).
+* <a name="blocco"></a>__BLOCCO__ - un blocco è una parte della [blockchain](#blockchain) che contiene e conferma molte transazioni in attesa. In media circa ogni 10 minuti un nuovo blocco, che include delle transazioni, viene aggiunto alla blockchain attraverso il processo di [mining](#minare).
 
 * <a name="blockchain"></a>__BLOCKCHAIN__ - la block chain è un registro pubblico delle transazioni Bitcoin in ordine cronologico. La block chain è condivisa tra tutti gli utenti Bitcoin. È utilizzata per verificare la permanenza delle transazioni Bitcoin e per prevenire il [double spending](#doublespend).
 
