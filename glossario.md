@@ -1,14 +1,14 @@
 [indice](README.md)
 ## Glossario
 ## B
-* <a name="blocco"></a>__BLOCCO__ - Un blocco è una parte della [blockchain](#blockchain) che contiene e conferma molte transazioni in attesa. In media circa ogni 10 minuti un nuovo blocco, che include delle transazioni, viene aggiunto alla blockchain attraverso il processo di [mining](#minare).
+* <a name="blocco"></a>__BLOCCO__ - nn blocco è una parte della [blockchain](#blockchain) che contiene e conferma molte transazioni in attesa. In media circa ogni 10 minuti un nuovo blocco, che include delle transazioni, viene aggiunto alla blockchain attraverso il processo di [mining](#minare).
 
-* <a name="blockchain"></a>__BLOCKCHAIN__ - La block chain è un registro pubblico delle transazioni Bitcoin in ordine cronologico. La block chain è condivisa tra tutti gli utenti Bitcoin. È utilizzata per verificare la permanenza delle transazioni Bitcoin e per prevenire il [double spending](#doublespend).
+* <a name="blockchain"></a>__BLOCKCHAIN__ - la block chain è un registro pubblico delle transazioni Bitcoin in ordine cronologico. La block chain è condivisa tra tutti gli utenti Bitcoin. È utilizzata per verificare la permanenza delle transazioni Bitcoin e per prevenire il [double spending](#doublespend).
 
 ## D
 * <a name="dyor"></a>__DYOR__ (_Do Your Own Research_) - ricerca più informazioni possibili prima di investire qualsiasi ammontare di denaro in una tecnologia che non padroneggi, di cui conosci poco o di cui hai solo sentito parlare. E' altresì importante selezionare accuratamente anche le fonti da cui si traggono le informazioni.
 
-* <a neame="doublespend"></a>__DOUBLE SPEND__ Se un utente malintenzionato prova a spendere i propri bitcoin verso due diversi riceventi contemporaneamente, si tratta di doppia spesa. Il mining di Bitcoin ed il block chain esistono per creare un consenso sulla rete, per decidere quale delle due transazioni sia considerata valida.
+* <a neame="doublespend"></a>__DOUBLE SPEND__ - se un utente malintenzionato prova a spendere i propri bitcoin verso due diversi riceventi contemporaneamente, si tratta di doppia spesa. Il mining di Bitcoin ed il block chain esistono per creare un consenso sulla rete, per decidere quale delle due transazioni sia considerata valida.
 
 ## F
 * <a name="fullnode"></a>__FULL NODE__ - descrizione full node
@@ -35,4 +35,4 @@
 * <a name="transazione"></a>__TRANSAZIONE__ - descrizione transazione
 
 ## W
-* <a name="wallet"></a>__WALLET__ (portafoglio) - nn portafoglio di Bitcoin è circa l'equivalente di un portafoglio materiale sul network di Bitcoin. In realtà il tuo portafoglio contiene le chiavi private che ti permettono di usare i bitcoin allocati nella block chain. Ogni portafoglio Bitcoin può mostrarti il bilancio totale di tutti i bitcoin che controlla e ti permette di pagare cifre precise ad una persona specifica, come un vero portafoglio. Questo è diverso dalla carte di credito dove ti sono addebitate le spese dal commerciante.
+* <a name="wallet"></a>__WALLET__ (portafoglio) - un portafoglio di Bitcoin è circa l'equivalente di un portafoglio materiale sul network di Bitcoin. In realtà il tuo portafoglio contiene le chiavi private che ti permettono di usare i bitcoin allocati nella block chain. Ogni portafoglio Bitcoin può mostrarti il bilancio totale di tutti i bitcoin che controlla e ti permette di pagare cifre precise ad una persona specifica, come un vero portafoglio. Questo è diverso dalla carte di credito dove ti sono addebitate le spese dal commerciante.
