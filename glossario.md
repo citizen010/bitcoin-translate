@@ -23,7 +23,7 @@
 * <a name="ledger"></a>__LEDGER__ (registro) - descrizione ledger
 
 ## M
-* <a name="minare"></a>__MINING__ (estrazione) - descrizione mining
+* <a name="minare"></a>__MINING__ (estrazione) - il processo che fa eseguire all'hardware del computer calcoli matematici al fine di confermare le transazioni ed aumentare la sicurezza della rete Bitcoin. Come ricompensa per il loro servizio, i miner (minatori) di Bitcoin possono incassare delle commissioni sulle transazioni che confermano insieme ai nuovi bitcoin appena creati. Quello del mining è un mercato specializzato e competitivo dove le ricompense sono divise in base a quanti calcoli sono stati eseguiti. Non tutti gli utenti Bitcoin si cimentano nel mining e non è un modo facile per fare soldi.
 
 ## P
 * <a name="p2p"></a>__PEER-TO-PEER__ (_da pari a pari_) -  nelle telecomunicazioni indica un modello di architettura logica di rete informatica in cui i nodi sono tutti equivalenti o _paritari_ (peer), potendo fungere al contempo da client e server verso gli altri nodi della rete. Mediante questa configurazione, qualsiasi nodo è in grado di avviare o completare una transazione.
