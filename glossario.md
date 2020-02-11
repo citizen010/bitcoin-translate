@@ -14,7 +14,7 @@
 * <a name="fullnode"></a>__FULL NODE__ - descrizione full node
 
 ## G
-* <a name="genesisblock"></a>__GENESIS BLOCK__ (blocco genesi) - descrizione genesis block
+* <a name="genesisblock"></a>__GENESIS BLOCK__ (blocco genesi) - è il primo blocco in assoluto della block chain. Rappresenta un caso speciale in quanto non referenzia il blocco precedente (per evidenti ragioni) e produce una ricompensa non spendibile. Nel genesis block di Bitcoin è stato inserito un messaggio da parte del suo autore Satoshi Nakamoto che riprende un titolo The Times del 3 gennaio 2009 : _"Chancellor on brink of second bailout for banks"_ (Cancelliere sull'orlo del secondo piano di salvataggio per le banche).
 
 ## H
 * <a name="halving"></a>__HALVING__ (dimezzamento) - descrizione halving
