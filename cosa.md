@@ -9,11 +9,11 @@ Bitcoin è intrinsecamente difficile da descrivere. È una cosa totalmente nuova
 
 Un modo di pensare a Bitcoin è come ad un contratto sociale automatizzato. Il software è solo un pezzo del puzzle e sperare di cambiare Bitcoin cambiando il software è un esercizio futile. Bisognerebbe convincere il resto della rete ad adottare i cambiamenti, che è più uno sforzo psicologico che uno di ingegneria del software.
 
-In generale, l'avanzamento della tecnologia sembra rendere le cose più abbondanti. Sempre più persone possono godere di quelli che in precedenza erano stati beni di lusso. Come scrisse Peter Diamandis in [Abundance](https://www.diamandis.com/abundance): “La tecnologia è un meccanismo di liberazione delle risorse. Può rendere ciò che era scarso abbondante."
+In generale, l'avanzamento della tecnologia sembra rendere le cose più abbondanti. Sempre più persone possono godere di quelli che in precedenza erano stati beni di lusso. Come scrisse Peter Diamandis in [Abundance](https://www.diamandis.com/abundance): _“La tecnologia è un meccanismo di liberazione delle risorse. Può rendere ciò che era scarso abbondante."_
 
-Bitcoin, una tecnologia avanzata in sé, interrompe questa tendenza e crea un nuovo prodotto che è veramente scarso. Alcuni sostengono addirittura che sia una delle cose più scarse dell'universo. L'ammontare masssmo possibile (21 milioni di bitcoin) __non può essere inflazionato__, indipendentemente dallo sforzo sostenuto per cercare di crearne di più.
+Bitcoin, una tecnologia avanzata in sé, interrompe questa tendenza e crea un nuovo prodotto che è veramente scarso. Alcuni sostengono addirittura che sia una delle cose più scarse dell'universo. L'ammontare masssmo possibile (21 milioni di bitcoin) __non può essere inflazionato__, indipendentemente dallo sforzo sostenuto per cercare di farlo.
 
-Paradossalmente, lo fa tramite un meccanismo di copia. Le transazioni vengono trasmesse, i blocchi vengono propagati, il registro distribuito ([ledger](glossario.md#ledger)) è - beh, hai indovinato - distribuito. Bitcoin si replica su quanti più computer possibile, incentivando le singole persone ad eseguire un [full node](glossario.ms#fullnode) e minare nuovi blocchi.
+Paradossalmente, lo fa tramite un meccanismo di copia. Le transazioni vengono trasmesse, i blocchi vengono propagati, il registro distribuito ([ledger](glossario.md#ledger)) è - beh, hai indovinato - distribuito. Bitcoin si replica su quanti più computer possibile, incentivando le singole persone ad eseguire un [full node](glossario.ms#fullnode) ed a minare nuovi blocchi.
 
 Tutta questa duplicazione lavora meravigliosamente insieme in uno sforzo concertato per produrre scarsità.
 In un periodo di abbondanza, Bitcoin ci ha insegnato cos'è la vera scarsità.
