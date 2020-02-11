@@ -32,7 +32,7 @@
 * <a name="seed"></a>__SEED__ (seme) - una frase, una lista di parole (di solito 12 o 24) che custodiscono tutta l'informazione necessaria a ripristinare i fondi di un portafolgio Bitcoin. I software wallet tipicamente generano questa frase e chiedono all'utente di farne una copia cartacea. In questo modo, se il computer usato smette di funzionare o il disco fisso si corrompe,  gli utenti possono riscaricare il software wallet ed usare la copia cartacea per rientrare in possesso dei loro bitcoins.
 Chiunque entri in possesso di questa frase può appropriarsi dei tuoi bitcoins, quindi deve essere mantenuta in un posto sicuro e __non deve essere mai scritta sul qualunque sito web la richieda__. 
 ## T
-* <a name="transazione"></a>__TRANSAZIONE__ - descrizione transazione
+* <a name="transazione"></a>__TRANSAZIONE__ - è un trasferimento di Bitcoin che è trasmesso sulla rete e raccolto in blocchi. Le transazioni non sono criptate, cosicchè sia possibile cercare e vedere una qualsiasi di esse che sia stata mai racconta in un blocco. Una volta che la transazione è passata attraverso un numero sufficiente di conferme, può essere considerata irreversibile.
 
 ## W
 * <a name="wallet"></a>__WALLET__ (portafoglio) - un portafoglio di Bitcoin è circa l'equivalente di un portafoglio materiale sul network di Bitcoin. In realtà il tuo portafoglio contiene le chiavi private che ti permettono di usare i bitcoin allocati nella block chain. Ogni portafoglio Bitcoin può mostrarti il bilancio totale di tutti i bitcoin che controlla e ti permette di pagare cifre precise ad una persona specifica, come un vero portafoglio. Questo è diverso dalla carte di credito dove ti sono addebitate le spese dal commerciante.
