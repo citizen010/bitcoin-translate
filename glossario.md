@@ -17,7 +17,7 @@
 * <a name="genesisblock"></a>__GENESIS BLOCK__ (blocco genesi) - è il primo blocco in assoluto della block chain. Rappresenta un caso speciale in quanto non referenzia il blocco precedente (per evidenti ragioni) e produce una ricompensa non spendibile. Nel genesis block di Bitcoin è stato inserito un messaggio da parte del suo autore Satoshi Nakamoto che cita un titolo apparso sul The Times del 3 gennaio 2009 : _"Chancellor on brink of second bailout for banks"_ (Cancelliere sull'orlo del secondo piano di salvataggio per le banche).
 
 ## H
-* <a name="halving"></a>__HALVING__ (dimezzamento) - descrizione halving
+* <a name="halving"></a>__HALVING__ (dimezzamento) - ogni 210.000 blocchi generarti ha luogo un evento chiamato halving che riduce, della metà, la ricomprensa distribuita ai minatori per la validazione dei blocchi. Dato che i blocchi vengono generati ogni 10 minuti, questo evento ha luogo ogni 35.000 ore cioè quasi esattamente ogni 4 anni.
 
 ## L
 * <a name="ledger"></a>__LEDGER__ (registro) - descrizione ledger
