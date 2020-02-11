@@ -1,3 +1,3 @@
 [indice](README.md)
-## Perchè è necessario 
+## Perchè dovrei usarlo 
 Le ragioni alla base della sua adozione.
