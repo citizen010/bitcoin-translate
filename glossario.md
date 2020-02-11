@@ -29,7 +29,7 @@
 * <a name="p2p"></a>__PEER-TO-PEER__ (_da pari a pari_) -  nelle telecomunicazioni indica un modello di architettura logica di rete informatica in cui i nodi sono tutti equivalenti o _paritari_ (peer), potendo fungere al contempo da client e server verso gli altri nodi della rete. Mediante questa configurazione, qualsiasi nodo è in grado di avviare o completare una transazione.
 
 ## S
-* <a name="seed"></a>__SEED__ (seme) - una frase, una lista di parole (di solito 12 o 24) che custodiscono tutta l'informazione necessaria a ripristinare i fondi di un portafolgio Bitcoin. I software wallet tipicamente generano questa frase e chiedono all'utente di farne uan copia cartacea. In questo modo se il computer usato smette di funzionare o il disco fisso si corrompe,  gli utenti possono riscaricare il software wallet ed usare la copia cartacea della lista di parole per rientrare in possesso dei loro bitcoins.
+* <a name="seed"></a>__SEED__ (seme) - una frase, una lista di parole (di solito 12 o 24) che custodiscono tutta l'informazione necessaria a ripristinare i fondi di un portafolgio Bitcoin. I software wallet tipicamente generano questa frase e chiedono all'utente di farne una copia cartacea. In questo modo, se il computer usato smette di funzionare o il disco fisso si corrompe,  gli utenti possono riscaricare il software wallet ed usare la copia cartacea per rientrare in possesso dei loro bitcoins.
 
 Anybody else who discovers the phrase can steal the bitcoins, so it must be kept safe like jewels or cash. For example, it must not be typed into any website. 
 ## T
