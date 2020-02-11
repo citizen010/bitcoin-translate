@@ -11,7 +11,7 @@
 * <a neame="doublespend"></a>__DOUBLE SPENDING__ - se un utente malintenzionato prova a spendere i propri bitcoin verso due diversi riceventi contemporaneamente, si tratta di doppia spesa. Il mining di Bitcoin ed il block chain esistono per creare un consenso sulla rete, per decidere quale delle due transazioni sia considerata valida.
 
 ## F
-* <a name="fullnode"></a>__FULL NODE__ - descrizione full node
+* <a name="fullnode"></a>__FULL NODE__ - è un programma (software) che valida tutte le transazioni incluse in un blocco e le propaga ad altri nodi a lui prossimi sulla rete. Inoltre notifica ai suoi utilizzatori se una o più transazioni fanno riferimento al loro [portafolgio](#wallet). Molti volontari fanno girare questo programma sui propri pc sfruttanto i tempi morti di utlizzo dello stesso.
 
 ## G
 * <a name="genesisblock"></a>__GENESIS BLOCK__ (blocco genesi) - è il primo blocco in assoluto della block chain. Rappresenta un caso speciale in quanto non referenzia il blocco precedente (per evidenti ragioni) e produce una ricompensa non spendibile. Nel genesis block di Bitcoin è stato inserito un messaggio da parte del suo autore Satoshi Nakamoto che cita un titolo apparso sul The Times del 3 gennaio 2009 : _"Chancellor on brink of second bailout for banks"_ (Cancelliere sull'orlo del secondo piano di salvataggio per le banche).
