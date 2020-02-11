@@ -6,11 +6,17 @@
 ## D
 * <a name="dyor"></a>__DYOR__ (_Do Your Own Research_) - ricerca più informazioni possibili prima di investire qualsiasi ammontare di denaro in una tecnologia che non padroneggi, di cui conosci poco o di cui hai solo sentito parlare. E' altresì importante selezionare accuratamente anche le fonti da cui si traggono le informazioni.
 
+## F
+* <a name="fullnode"></a>__FULL NODE__ - descrizione full node
+
 ## G
 * <a name="genesisblock"></a>__GENESIS BLOCK__ (blocco genesi) - descrizione genesis block
 
 ## H
 * <a name="halving"></a>__HALVING__ (dimezzamento) - descrizione halving
+
+## L
+* <a name="ledger"></a>__LEDGER__ (registro) - descrizione ledger
 
 ## M
 * <a name="minare"></a>__MINING__ (estrazione) - descrizione mining
