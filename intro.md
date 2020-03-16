@@ -9,6 +9,6 @@ Per comprendere ed apprezzare appieno la tecnologia Bitcoin __è necessario capi
 ### <a name="storia"></a> Breve storia del denaro
 
 ### <a name="denaro"></a>Che cos'è il denaro
-Il denaro è un'invenzioe dell'uomo col solo scopo di facilitare gli scambi.
+> Il denaro è stato inventato dall'uomo al solo scopo di facilitare gli scambi commerciali.
 
 ### <a name="proprieta"></a>Le proprietà del denaro
