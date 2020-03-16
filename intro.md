@@ -7,7 +7,7 @@ Per comprendere ed apprezzare appieno la tecnologia Bitcoin __è necessario capi
 ***
 
 ### <a name="denaro"></a>Che cos'è il denaro
-> il denaro è stato inventato dall'uomo per uno scopo preciso: facilitare gli scambi commerciali.
+> Il denaro è stato inventato dall'uomo per uno scopo preciso: facilitare gli scambi commerciali.
 
 Prima dell'introduzione del denaro, l'unico modo per scambiare delle merci era il baratto, ovvero lo scambio diretto di beni contro beni. Il baratto, però, era una modalità sì semplice, ma soggetta a diversi problemi, uno dei quali era costituito dai vincoli di tempo.
 
