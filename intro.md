@@ -7,7 +7,8 @@ Per comprendere ed apprezzare appieno la tecnologia Bitcoin __è necessario capi
 ***
 
 ### <a name="denaro"></a>Che cos'è il denaro
-> Il denaro è stato inventato dall'uomo al solo scopo di facilitare gli scambi commerciali.
+> il denaro è stato inventato dall'uomo per uno scopo preciso: facilitare gli scambi commerciali.
+
 Il denaro è qualsiasi elemento verificabile che è generalmente accettato come pagamento per beni e servizi. Le principali funzioni del denaro si distinguono in: un mezzo di scambio, un'unità di conto oppure un deposito di valore. Qualsiasi elemento che soddisfa queste funzioni può essere considerato come denaro.
 Nel nostro sistema ciò è rappresnetato dalle banconote
 
