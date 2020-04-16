@@ -15,7 +15,7 @@ Il modo migliore per prendere confidenza con bitcoin è certamente iniziare ad u
 * utilizza [@getbittr](https://getbittr.com/save-bitcoin) per trasferire fondi dal tuo conto bancario al tuo [wallet](glossario.md#wallet). Sono necessari 1-2 gg. lavorativi affinchè il bonifico venga processato. Riceverai una mail di conferma da [@getbittr](https://getbittr.com/save-bitcoin) quando i fondi saranno accreditati sul tuo [wallet](glossario.md#wallet).
 - [ ] vedrai una nuova [transazione](glossario.md#transazione) in stato "__non confermata__"
 - [ ] il totale __non sarà__ più uguale a 0,00000000 BTC - prendi nota del numero, servirà in seguito
-- [ ] attendi che lo stato della transazione diventi "__confermata__" (10-15 min)
+- [ ] attendi che lo stato della [transazione](glossario.md#transazione) diventi "__confermata__" (10-15 min)
 - [ ] disinstalla l'applicazione __Green: Bitcoin Wallet__ dal tuo smartphone (i tuoi bitcoin sono al sicuro, tranquillo)
 - [ ] reinstalla l'applicazione __Green: Bitcoin Wallet__ sul tuo smartphone
 - [ ] avvia l'applicazione __Green: Bitcoin Wallet__
