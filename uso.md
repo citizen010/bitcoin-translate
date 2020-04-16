@@ -41,4 +41,4 @@ Personalmente sono un fan di [Samourai](https://play.google.com/store/apps/detai
 
 ## Wallet hardware
 E' un dispositivo elettronico fisico, costruito al solo scopo di proteggere le criptovalute. La caratteristica principale è che __deve essere connesso__ al tuo computer, telefono o tablet __prima__ di poter essere utilizzato.
-A differena dei [wallet](glossario.md#wallet) software, le [transazioni](glossario.md#transazione) sono validate all'interno del dispositio e le tue chiavi private non vengono mai esposte all'esterno.
+A differenza dei [wallet](glossario.md#wallet) software, le [transazioni](glossario.md#transazione) sono validate all'interno del dispositivo stesso e le tue chiavi private non vengono mai esposte all'esterno.
