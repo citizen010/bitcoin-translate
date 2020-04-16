@@ -40,7 +40,7 @@ L'applicazione __Green: Bitcoin Wallet__ non è l'unica possibilità. Esiste un 
 Personalmente sono un fan di [Samourai](https://play.google.com/store/apps/details?id=com.samourai.wallet) - anche se, al momento, esiste solo per la piattaforma Android.
 
 ## Wallet hardware
->Acquistatelo __ESCLUSIVAMENTE__ dal sito del rispettivo produttore, __evitate__ acquisti di materiale usato da privati
+>Acquistatelo __ESCLUSIVAMENTE__ dal sito del produttore, __evitate__ acquisti di materiale usato da privati
 
 E' un dispositivo elettronico fisico, costruito al solo scopo di proteggere le criptovalute. La caratteristica principale è che __deve essere connesso__ al tuo computer, telefono o tablet __prima__ di poter essere utilizzato.
 A differenza dei [wallet](glossario.md#wallet) software, le [transazioni](glossario.md#transazione) sono validate all'interno del dispositivo stesso e le tue chiavi private non vengono mai esposte all'esterno.
