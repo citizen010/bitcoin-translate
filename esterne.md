@@ -8,6 +8,9 @@
 ### Documenti
 * [Bitcoin official Whitepaper](https://bitcoin.org/bitcoin.pdf)
 
+### Funding wallet
+* [@getbittr](https://getbittr.com) - acquisto BTC ed alimentazione wallet
+
 ### Libri
 * [The Bitcoin Standard](https://saifedean.com/the-book/) by Saifedean Ammous
 * [Mastering Bitcoin](https://www.amazon.it/Mastering-Bitcoin-Traduzione-italiana-blockchain/dp/1081849118?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffsb-it-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1081849118) by Andreas M. Antonopoulos
