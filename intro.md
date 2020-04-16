@@ -21,8 +21,20 @@ I governi, nel tempo, sono passati a forme di denaro a corso legale sospendendo 
 
 ### <a name="proprieta"></a>Le proprietà del denaro
 
-Le proprietà del denaro sono principalmente quattro:
+Le proprietà del denaro a corso legale (quello attualmente in uso) sono principalmente quattro:
 * mezzo di scambio
 * unità di conto
 * riserva di valore
 * fungibilità
+
+#### Mezzo di scambio
+descrizione
+
+#### Unità di conto
+descrizione
+
+#### Riserva di valore
+descrizione
+
+#### Fungibilità
+descrizione
