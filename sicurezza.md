@@ -1,3 +1,3 @@
 [indice](README.md)
-## Sicurezza
+## Privacy & Sicurezza
 Accorgimenti per un utilizzo sicuro e privato.
