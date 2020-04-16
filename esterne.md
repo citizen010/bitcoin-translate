@@ -1,5 +1,8 @@
 [indice](README.md)
 # Risorse esterne
+### Acquisto
+* [@getbittr](https://getbittr.com) - acquisto BTC ed alimentazione wallet
+
 ### Articoli
 * [The Bullish Case for Bitcoin](https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1) by Vijay Boyapati
 * [Planting Bitcoin](https://medium.com/@danhedl/planting-bitcoin-56bd1459cb23) by Dan Held
@@ -7,9 +10,6 @@
 
 ### Documenti
 * [Bitcoin official Whitepaper](https://bitcoin.org/bitcoin.pdf)
-
-### Acquisto
-* [@getbittr](https://getbittr.com) - acquisto BTC ed alimentazione wallet
 
 ### Libri
 * [The Bitcoin Standard](https://saifedean.com/the-book/) by Saifedean Ammous
