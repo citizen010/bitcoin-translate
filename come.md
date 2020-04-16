@@ -4,4 +4,4 @@ Il modo migliore per comprenderne il funzionamento è analizzare ogni passaggio 
 
 > Nell'esempio sottostante non si fa riferimento ad un particolare [wallet](glossario.md#wallet) in quanto ognuno di essi ha almeno due funzionalità : __invia__ e __ricevi__. Le reali modalità operative variano in funzione del [wallet](glossario.md#wallet) scelto, ma la sostanza - cioè i risultati delle operazioni sottostanti - non cambia.
 
-- [ ] Alice decide di inviare a Bob un'intero bitcoin (1 BTC) 
+- [ ] Alice decide di inviare a Bob un bitcoin (1 BTC) 
