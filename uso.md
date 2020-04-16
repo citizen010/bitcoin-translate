@@ -50,6 +50,6 @@ Garantisce una sicurezza molto più elevata rispetto al [wallet](glossario.md#wa
 
 I principali [wallet](glossario.md#wallet) hardware sono i seguenti:
 
-* [ColdCard](https://coldcardwallet.com/)
-* [Ledger](https://www.ledger.com/)
-* [Trezor](https://trezor.io/)
+* [ColdCard](https://coldcardwallet.com/) - suporta solo bitcoin
+* [Ledger](https://www.ledger.com/) - supporta varie cryptovaòute
+* [Trezor](https://trezor.io/) - supporta varie cryptovalute
