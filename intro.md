@@ -28,10 +28,11 @@ Le proprietà del denaro a corso legale (quello attualmente in uso) sono princip
 * fungibilità
 
 #### Mezzo di scambio
-descrizione
+In economia, per scambio si intende la cessione di un bene o servizio che si possiede in cambio di un mezzo concordato (il denaro, appunto). Lo scopo di ogni scambio è soddisfare i bisogni delle parti che, di conseguenza, decidono di instaurare tra loro un accordo di compravendita. 
 
 #### Unità di conto
-descrizione
+E' un'unità numerica standard per la misura del valore di mercato di beni e servizi.
+In assenza di un'unità di conto (dalla notevole diffusione) non è facile indicare i rapporti di scambio tra i diversi beni in un certo mercato; in termini semplici, non ci sarebbero tanti prezzi di mercato quanti sono i beni, ma ogni singolo bene avrebbe tanti "prezzi" quanti sono gli altri beni presenti nel mercato (in quanto dovremmo esprimere il "prezzo" di un dato bene in termini di ciascuno degli altri beni).
 
 #### Riserva di valore
 descrizione
