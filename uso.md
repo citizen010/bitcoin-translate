@@ -27,9 +27,9 @@ Il modo migliore per prendere confidenza con bitcoin è certamente iniziare ad u
 
 __CONGRATULAZIONI__
 
-hai correttamente portato a termine la creazione, la copia di sicurezza ed il ripristino di un wallet bitcoin oltre ad avere effettuato la tua prima transazione: ora anche tu puoi affermare di essere un __bitcoiner__.
+hai correttamente portato a termine la creazione, la copia di sicurezza ed il ripristino di un [wallet](glossario.md#wallet) bitcoin oltre ad avere effettuato la tua prima transazione: ora anche tu puoi affermare di essere un __bitcoiner__.
 
 ## Copie di sicurezza
 Fai __un'ulteriore copia del [seed](glossario.md#seed)__ e conservala in un luogo sicuro __diverso__ da quello dove custodisci la prima copia. Il [seed](glossario.md#seed) è tutto ciò che serve per ripristinare i tuoi fondi in caso di smarrimento del telefono o se decidessi di usare una diversa applicazione per gestire i tuoi bitcoin. Custodiscilo con cura.
 
->Qualora perdessi tutte le __copie del seed__ nessuno ti potrà aiutare ed i tuoi bitcoin saranno __persi per sempre__.
+>Qualora perdessi tutte le __copie del [seed](glossario.md#seed)__ nessuno ti potrà aiutare ed i tuoi bitcoin saranno __persi per sempre__.
