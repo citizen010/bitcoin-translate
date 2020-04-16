@@ -34,7 +34,7 @@ Fai __un'ulteriore copia del [seed](glossario.md#seed)__ e conservala in un luog
 
 >Qualora perdessi tutte le __copie del [seed](glossario.md#seed)__ nessuno ti potrà aiutare ed i tuoi bitcoin saranno __persi per sempre__.
 
-Per una più approfondita analisi sull'utilizzo di bitcoin in sicurezza, fai riferimento alla [apposita sezione](sicurezza.md)
+Per una più approfondita analisi sulla privacy e la sicurezza, fai riferimento alla [apposita sezione](sicurezza.md)
 
 ## Altri wallet software
 L'applicazione __Green: Bitcoin Wallet__ non è l'unica possibilità. Esiste un numero sempre maggiore di [wallet](glossario.md#wallet) tra qui [scegliere](https://bitcoin.org/it/scegli-il-tuo-portafoglio?step=5). In questo esempio è stato scelto un [wallet](glossario.md#wallet) che fosse disponiblie sia per iOS che per Android affinché un numero il più ampio possibile di persone potesse testare il funzionamento di bitcoin.
