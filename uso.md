@@ -35,7 +35,8 @@ Fai __un'ulteriore copia del [seed](glossario.md#seed)__ e conservala in un luog
 >Qualora perdessi tutte le __copie del [seed](glossario.md#seed)__ nessuno ti potrà aiutare ed i tuoi bitcoin saranno __persi per sempre__.
 
 ## Altri wallet
-L'applicazione __Green: Bitcoin Wallet__ non è l'unica possibilità. Esiste un numero sempre maggiore di [wallet](glossario.md#wallet) tra qui scegliere. In questo esempio è stato scelto un [wallet](glossario.md#wallet) che fosse disponiblie sia per iOS che per Android per dar modo ad un numero più ampio possibile di persone di testare il funzionamento di bitcoin.
+L'applicazione __Green: Bitcoin Wallet__ non è l'unica possibilità. Esiste un numero sempre maggiore di [wallet](glossario.md#wallet) tra qui scegliere. In questo esempio è stato scelto un [wallet](glossario.md#wallet) che fosse disponiblie sia per iOS che per Android affinché un numero il più ampio possibile di persone potesse testare il funzionamento di bitcoin.
 
 Tra gli altri [wallet](glossario.md#wallet) segnalo:
-[Samourai](https://play.google.com/store/apps/details?id=com.samourai.wallet) - solo Anddroid
+
+* [Samourai](https://play.google.com/store/apps/details?id=com.samourai.wallet) - solo Anddroid
