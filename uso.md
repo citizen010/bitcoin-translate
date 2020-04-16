@@ -41,6 +41,7 @@ Personalmente sono un fan di [Samourai](https://play.google.com/store/apps/detai
 
 ## Wallet hardware
 > Non è obbligatorio dotarsene, ma __se si intende investire una somma di denaro considerevole__ è caldamente raccomandato.
+> Acquistatelo __ESCLUSIVAMENTE__ dal sito del produttore, __evitate__ acquisti di materiale usato su ebay o da privati
 
 E' un dispositivo elettronico fisico, costruito al solo scopo di proteggere le criptovalute. La caratteristica principale è che __deve essere connesso__ al tuo computer, telefono o tablet __prima__ di poter essere utilizzato.
 A differenza dei [wallet](glossario.md#wallet) software, le [transazioni](glossario.md#transazione) sono validate all'interno del dispositivo stesso e le tue chiavi private non vengono mai esposte all'esterno.
@@ -48,7 +49,6 @@ A differenza dei [wallet](glossario.md#wallet) software, le [transazioni](glossa
 Garantisce una sicurezza molto più elevata rispetto al [wallet](glossario.md#wallet) software ma l'utilizzo è meno immediato e non è gratuito.
 
 I principali [wallet](glossario.md#wallet) hardware sono i seguenti:
->Acquistatelo __ESCLUSIVAMENTE__ dal sito del produttore, __evitate__ acquisti di materiale usato su ebay o da privati
 
 * [ColdCard](https://coldcardwallet.com/)
 * [Ledger](https://www.ledger.com/)
