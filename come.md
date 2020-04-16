@@ -8,3 +8,4 @@ Il modo migliore per comprenderne il funzionamento è analizzare ogni passaggio 
 
 - [ ] Alice decide di inviare a Bob un bitcoin (1 BTC) utilizzando la funzionalità __INVIA__
 - [ ] Bob fornisce (via mail, web, tel, msg, etc.) ad Alice un [indirizzo bitcoin](glossario.md#address) utilizzando la funzionalità __RICEVI__
+- [ ] Alice immette l'[indirizzo bitcoin](glossario.md#address) di Bob e l'importo (1 BTC) nel suo [wallet](glossario.md#wallet)
