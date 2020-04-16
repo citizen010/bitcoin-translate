@@ -20,3 +20,9 @@ Il denaro a corso legale è quel denaro (non coperto da riserve di altri materia
 I governi, nel tempo, sono passati a forme di denaro a corso legale sospendendo il servizio da loro offerto di cambio del denaro in oro (o qualsiasi altra cosa il denaro rappresentasse). Gli Stati Uniti passarono definitivamente al denaro a corso legale nel 1971. Dato che anche le altre valute erano riferite al dollaro statunitense, vi fu automaticamente una moltiplicazione dei paesi che si ritrovarono ad adottare il corso legale, le cosiddette _fiat money_, tuttora in corso (le banconote e le monete che probabilmente hai adesso nel tuo portafoglio).
 
 ### <a name="proprieta"></a>Le proprietà del denaro
+
+Le proprietà del denaro sono principalmente quattro:
+* mezzo di scambio
+* unità di conto
+* riserva di valore
+* fungibilità
