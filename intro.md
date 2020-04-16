@@ -32,10 +32,10 @@ In economia, per scambio si intende la cessione di un bene o servizio che si pos
 
 #### Unità di conto
 E' un'unità numerica standard per la misura del valore di mercato di beni e servizi.
-In assenza di un'unità di conto (dalla notevole diffusione) non è facile indicare i rapporti di scambio tra i diversi beni in un certo mercato; in termini semplici, non ci sarebbero tanti prezzi di mercato quanti sono i beni, ma ogni singolo bene avrebbe tanti "prezzi" quanti sono gli altri beni presenti nel mercato (in quanto dovremmo esprimere il "prezzo" di un dato bene in termini di ciascuno degli altri beni).
+In assenza di un'unità di conto (notevolmente diffusiona) non è facile indicare i rapporti di scambio tra i diversi beni in un certo mercato; ovvero non ci sarebbero tanti prezzi di mercato quanti sono i beni, ma ogni singolo bene avrebbe tanti "prezzi" quanti sono gli altri beni presenti nel mercato (in quanto dovremmo esprimere il "prezzo" di un dato bene in termini di ciascuno degli altri beni - es: 1 mela = 1/2 arancia, 4 cipolle, 2 kiwi, etc.).
 
 #### Riserva di valore
-descrizione
+E' un bene (materiale o immateriale) che tende a conservare il suo valore nel tempo, e per tale motivo può essere detenuto per un utilizzo futuro senza il pericolo che si "deteriori". Il carattere di riserva di valore non può essere assente negli strumenti di pagamento, in quanto l'uso di uno strumento di pagamento presuppone il fatto che la sua temporanea detenzione non ne faccia perdere il valore (in termini di potere d'acquisto). Non a caso i primi strumenti di pagamento furono beni non deperibili, fino ad arrivare ai metalli preziosi (poi coniati sotto forma di moneta metallica), dotati di particolare resistenza; nel caso della moneta cartacea convenzionale la stabilità del potere d'acquisto (conservazione del valore di scambio) risiede nella garanzia rappresentata dalla gestione anti-inflazionistica della politica monetaria da parte della banca centrale.
 
 #### Fungibilità
 descrizione
