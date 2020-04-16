@@ -33,3 +33,6 @@ hai correttamente portato a termine la creazione, la copia di sicurezza ed il ri
 Fai __un'ulteriore copia del [seed](glossario.md#seed)__ e conservala in un luogo sicuro __diverso__ da quello dove custodisci la prima copia. Il [seed](glossario.md#seed) è tutto ciò che serve per ripristinare i tuoi fondi in caso di smarrimento del telefono o se decidessi di usare una diversa applicazione per gestire i tuoi bitcoin. Custodiscilo con cura.
 
 >Qualora perdessi tutte le __copie del [seed](glossario.md#seed)__ nessuno ti potrà aiutare ed i tuoi bitcoin saranno __persi per sempre__.
+
+## Altri wallet
+L'applicazione __Green: Bitcoin Wallet__ non è l'unica possibilità. Esiste un numero sempre maggiore di [wallet](glossario.md#wallet) tra qui scegliere. In questo esempio è stato scelto un [wallet](glossario.md#wallet) che fosse diposniblie sia per iOS che per Android per dar modo ad un numero più ampio possibile di persone di testare il funzionamento di bitcoin.
