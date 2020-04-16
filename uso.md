@@ -37,7 +37,7 @@ Fai __un'ulteriore copia del [seed](glossario.md#seed)__ e conservala in un luog
 ## Altri wallet software
 L'applicazione __Green: Bitcoin Wallet__ non è l'unica possibilità. Esiste un numero sempre maggiore di [wallet](glossario.md#wallet) tra qui [scegliere](https://bitcoin.org/it/scegli-il-tuo-portafoglio?step=5). In questo esempio è stato scelto un [wallet](glossario.md#wallet) che fosse disponiblie sia per iOS che per Android affinché un numero il più ampio possibile di persone potesse testare il funzionamento di bitcoin.
 
-Personalmente sono un fan di [Samourai](https://play.google.com/store/apps/details?id=com.samourai.wallet) - anche se, al momento, esiste solo per la piattaforma Anddoid.
+Personalmente sono un fan di [Samourai](https://play.google.com/store/apps/details?id=com.samourai.wallet) - anche se, al momento, esiste solo per la piattaforma Android.
 
 ## Wallet hardware
 descrizione
