@@ -11,8 +11,8 @@ Il modo migliore per prendere confidenza con bitcoin è certamente iniziare ad u
 - [ ] per il momento, __non impostare__ l'autenticazione a due fattori, premi "__Vai al wallet__"
 - [ ] quello che vedrai è un nuovo wallet che contiene 0,00000000 BTC
 - [ ] __QUESTA E' L'UNICA VERA DIFFICOLTA'__ acquista/procurati bitcoin
-* chiedi ad un amico di trasferirti una piccola somma
-* utilizza @getbittr per trasferire fondi dal tuo conto bancario al tuo wallet
+* chiedi ad un amico che già usa bitcoin di trasferirti una piccola somma che gli ripagherai in contanti
+* utilizza [@getbittr](https://getbittr.com/) per trasferire fondi dal tuo conto bancario al tuo wallet
 - [ ] vedrai una nuova [transazione](glossario.md#transazione) in stato "__non confermata__"
 - [ ] il totale __non sarà__ più uguale a 0,00000000 BTC - prendi nota del numero, servirà in seguito
 - [ ] attendi che lo stato della transazione diventi "__confermata__" (10-15 min)
