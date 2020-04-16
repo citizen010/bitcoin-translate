@@ -8,7 +8,7 @@
 ### Documenti
 * [Bitcoin official Whitepaper](https://bitcoin.org/bitcoin.pdf)
 
-### Funding wallet
+### Acquisto
 * [@getbittr](https://getbittr.com) - acquisto BTC ed alimentazione wallet
 
 ### Libri
