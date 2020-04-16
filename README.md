@@ -8,7 +8,6 @@ Questo repository è totalmente in lingua italiana. La terminologia tecnica non 
 * ### [Introduzione](intro.md "Sul concetto di denaro e sulle sue proprietà")
 * ### [Che cos'è](cosa.md "La preistoria, la storia e le evoluzioni del protocollo Bitcoin.")
 * ### [Come funziona](come.md "Gli elementi che concorrono al funzionamento del network globale.")
-* ### [Perchè dovrei usarlo](perche.md "Le ragioni alla base della sua adozione.") 
 * ### [Come iniziare ad usarlo](uso.md "Portafogli digitali e lightning network.")
 * ### [Sicurezza](sicurezza.md "Accorgimenti per un utilizzo sicuro e privato.")
 * ### [Glossario](glossario.md "Una raccolta di termini che troverete durante la lettura.")
