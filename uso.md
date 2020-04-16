@@ -6,10 +6,10 @@ Il modo migliore per prendere confidenza con bitcoin è certamente iniziare ad u
 - [ ] avvia l'applicazione __Green: Bitcoin Wallet__
 - [ ] crea un nuovo [wallet](glossario.md#wallet)
 - [ ] scrivi il [seed](glossario.md#seed) (__le 24 parole esattamente in quell'ordine__) su un foglio di carta
-- [ ] il wallet ti chiederà di verificare il seed inserendo alcune delle parole di cui al punto precedente
-- [ ] scegli un PIN per proteggere il wallet e verificalo
+- [ ] il [wallet](glossario.md#wallet) ti chiederà di verificare il [seed](glossario.md#seed) inserendo alcune delle parole di cui al punto precedente
+- [ ] scegli un PIN per proteggere il [wallet](glossario.md#wallet) e verificalo
 - [ ] per il momento, __non impostare__ l'autenticazione a due fattori, premi "__Vai al wallet__"
-- [ ] quello che vedrai è un nuovo wallet che contiene 0,00000000 BTC
+- [ ] quello che vedrai è un nuovo [wallet](glossario.md#wallet) che contiene 0,00000000 BTC
 - [ ] __QUESTA E' L'UNICA VERA DIFFICOLTA'__ acquista/procurati bitcoin
 * chiedi ad un amico che già usa bitcoin di trasferirti una piccola quantità (es. 0.001 BTC) che gli pagherai in contanti (lui saprà come fare)
 * utilizza [@getbittr](https://getbittr.com/save-bitcoin) per trasferire fondi dal tuo conto bancario al tuo [wallet](glossario.md#wallet). Sono necessari 1-2 gg. lavorativi affinchè il bonifico venga processato. Riceverai una mail di conferma da [@getbittr](https://getbittr.com/save-bitcoin) quando i fondi saranno accreditati sul tuo [wallet](glossario.md#wallet).
@@ -20,8 +20,8 @@ Il modo migliore per prendere confidenza con bitcoin è certamente iniziare ad u
 - [ ] reinstalla l'applicazione __Green: Bitcoin Wallet__ sul tuo smartphone
 - [ ] avvia l'applicazione __Green: Bitcoin Wallet__
 - [ ] scegli la voce "__Ripristina un Wallet Green__"
-- [ ] scrivi le 24 parole che compongono il seed nell'ordine corretto e premi "__OK__"
-- [ ] scegli un PIN per proteggere il wallet e verificalo (può essere lo stesso di prima)
+- [ ] scrivi le 24 parole che compongono il [seed](glossario.md#seed) nell'ordine corretto e premi "__OK__"
+- [ ] scegli un PIN per proteggere il [wallet](glossario.md#wallet) e verificalo (può essere lo stesso di prima)
 - [ ] per il momento, __non impostare__ l'autenticazione a due fattori, premi "__Vai al wallet__"
 - [ ] verifica che il totale corrisponda a quello di cui hai preso nota precedentemente
 
