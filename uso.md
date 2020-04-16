@@ -44,7 +44,7 @@ E' un dispositivo elettronico fisico, costruito al solo scopo di proteggere le c
 A differenza dei [wallet](glossario.md#wallet) software, le [transazioni](glossario.md#transazione) sono validate all'interno del dispositivo stesso e le tue chiavi private non vengono mai esposte all'esterno.
 
 Garantisce una sicurezza molto più elevata rispetto al [wallet](glossario.md#wallet) software ma l'utilizzo è meno immediato e non è gratuito.
-> _Non è obbligatorio dotarsene_, ma __se si intende investire una somma di denaro considerevole__ lo diventa. 
+> <u>Non è obbligatorio dotarsene</u>, ma __se si intende investire una somma di denaro considerevole__ lo diventa. 
 
 I principali [wallet](glossario.md#wallet) hardware sono i seguenti:
 >Acquistatelo __ESCLUSIVAMENTE__ dal sito del produttore, __evitate__ acquisti di materiale usato su ebay o da privati
