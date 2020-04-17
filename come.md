@@ -6,9 +6,9 @@ Il modo migliore per comprenderne il funzionamento è analizzare ogni passaggio 
 
 > Alice e Bob posseggono ognuno un loro [wallet](glossario.md#wallet), __ma non necessariamente lo stesso__. Non è altresì necessario che Alice e Bob si conoscano. Le motivazioni alla base della transazione sono irrilevanti. 
 
-> __INVIA__ = significa utilizzare la funzionalità __INVIA__ del proprio [wallet](glossario.md#wallet)
+> __INVIA__ = utilizzare la funzionalità __INVIA__ del proprio [wallet](glossario.md#wallet)
 
-> __RICEVI__ = significa utilizzare la funzionalità __RICEVI__ del proprio [wallet](glossario.md#wallet)
+> __RICEVI__ = utilizzare la funzionalità __RICEVI__ del proprio [wallet](glossario.md#wallet)
 
 - [ ] Alice decide di inviare a Bob 1 BTC (__INVIA__)
 - [ ] Bob (__RICEVI__) genera un [indirizzo bitcoin](glossario.md#address) e lo fornisce (via mail, web, tel, msg, etc.) ad Alice 
