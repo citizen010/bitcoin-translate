@@ -216,11 +216,9 @@ But I see that it is now in a block, so I will take it out...
 
 of my mempool and consider it confirmed.'
 
-Eventually, this block will propagate all
-the way back until it reaches your wallet.
+Eventually, questo blocco si propagherà fino a raggiungere il wallet di Bob.
 
-Your wallet will know that this transaction has
-one confirmation, and then the process continues.
+Il wallet di Bob ora è a conoscenza che la transazione ha 1 conferma, ed il processo continua.
 
-So that is the entire lifecycle of a transaction.
+Questo è l'intero cicla di vita di una transazione.
 
