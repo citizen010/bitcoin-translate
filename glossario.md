@@ -11,6 +11,8 @@
 * <a neame="doublespend"></a>__DOUBLE SPENDING__ - se un utente malintenzionato prova a spendere i propri bitcoin verso due diversi riceventi contemporaneamente, si tratta di doppia spesa. Il mining di Bitcoin ed il block chain esistono per creare un consenso sulla rete, per decidere quale delle due transazioni sia considerata valida.
 
 ## F
+* <a name="fee"></a>__FEE__ (commissione) - to be completed 
+
 * <a name="fullnode"></a>__FULL NODE__ - è un programma (software) che valida tutte le transazioni incluse in un blocco e le propaga ad altri nodi a lui prossimi sulla rete. Inoltre notifica ai suoi utilizzatori se una o più transazioni fanno riferimento al loro [portafolgio](#wallet). Molti volontari fanno girare questo programma sui propri pc sfruttanto i tempi morti di utlizzo dello stesso. E' un elemento essenziale per la decentralizzazione della rete Bitcoin.
 
 ## G
@@ -18,6 +20,9 @@
 
 ## H
 * <a name="halving"></a>__HALVING__ (dimezzamento) - ogni 210.000 blocchi generarti ha luogo un evento chiamato halving che riduce, della metà, la ricomprensa distribuita ai minatori per la validazione dei blocchi. Dato che i blocchi vengono generati ogni 10 minuti, questo evento ha luogo ogni 35.000 ore cioè quasi esattamente ogni 4 anni. Ci saranno in totale 33 eventi di questo tipo prima che la ricompensa sia esattamente uguale a 0 (zero). Lo scopo di tutto ciò è controllare l'emissione di nuovi bitcoin.
+
+## I
+* <a name="address"></a>__INDIRIZZO BITCOIN__ - to be completed 
 
 ## L
 * <a name="ledger"></a>__LEDGER__ (registro) - un ledger è un database che viene consensualmente condiviso e sincronizzato su più siti, istituzioni o aree geografiche. Consente alle transazioni di avere "testimoni" pubblici, rendendo così più difficile un attacco informatico. Il partecipante su ciascun nodo della rete può accedere alle registrazioni condivise su quella rete e può possederne una copia identica. Inoltre, eventuali modifiche o aggiunte apportate al ledger vengono riflesse e copiate presso tutti i partecipanti in pochi secondi o minuti. Rappresenta il consenso, raggiunto tempo per tempo dalla rete, circa quali chiavi private controllino quali bitcoin.
