@@ -4,7 +4,7 @@ Il modo migliore per comprenderne il funzionamento è analizzare ogni passaggio 
 
 > Nell'esempio sottostante non si fa riferimento ad un particolare [wallet](glossario.md#wallet) in quanto ognuno di essi ha almeno due funzionalità : __INVIA__ e __RICEVI__. Le reali modalità operative variano in funzione del [wallet](glossario.md#wallet) scelto, ma la sostanza - cioè i risultati delle operazioni sottostanti - non cambia.
 
-> Alice e Bob posseggono ognuno un loro [wallet](glossario.md#wallet), __ma non necessariamente lo stesso__. Non è altresì necessario che Alice e Bob si conoscano. Le motivazioni alla base della transazione sono irrilevanti. Per semplicità i [fee](glossario.md#fee) (le commissioni) non vengno considerati.
+> Alice e Bob posseggono ognuno un loro [wallet](glossario.md#wallet), __ma non necessariamente lo stesso__. Non è altresì necessario che Alice e Bob si conoscano. Le motivazioni alla base della transazione sono irrilevanti.
 
 > __INVIA__ = utilizzare la funzionalità __INVIA__ del proprio [wallet](glossario.md#wallet)
 
@@ -14,5 +14,5 @@ Il modo migliore per comprenderne il funzionamento è analizzare ogni passaggio 
 - [ ] Bob (__RICEVI__) genera un [indirizzo bitcoin](glossario.md#address) e lo fornisce (via mail, web, tel, msg, etc.) ad Alice 
 - [ ] Alice specifica l'[indirizzo bitcoin](glossario.md#address) di Bob e l'importo (1 BTC) nella trasfazione sul suo [wallet](glossario.md#wallet) e conferma l'invio
 - [ ] Il [wallet](glossario.md#wallet) di Alice trasmette la [transazione](glossario.md#transazione) (firmata con la sua [chiave privata](glossario.md#pkey)) sulla [blockchain](glossario.md#blockchain) affinchè venga processata dai [nodi](glossario.md#fullnode) del network
-- [ ] I [nodi](glossario.md#fullnode) verificano che la [transazione](glossario.md#transazione) rispetti tutte le regole del consenso imposte dal protocollo bitcoin e, solo a questo punto, la trasmettono ai nodi a cui sono collegati e così via fino a propagarsi per tutto il network globale
+- [ ] I [nodi](glossario.md#fullnode) (sianmo essi __full node__ oppure __mining node__) verificano che la [transazione](glossario.md#transazione) rispetti tutte le regole del consenso imposte dal protocollo bitcoin e, solo a questo punto, la trasmettono ai nodi a cui a loro volta sono collegati - così via fino a propagarsi per tutto il network globale
 - [ ] 
