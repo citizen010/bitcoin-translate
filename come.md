@@ -7,5 +7,5 @@ Il modo migliore per comprenderne il funzionamento è analizzare ogni passaggio 
 > Alice e Bob posseggono ognuno un loro [wallet](glossario.md#wallet), __ma non necessariamente lo stesso__. Non è altresì necessario che Alice e Bob si conoscano. Le motivazioni alla base della transazione possono rimanere private oppure essere rese pubbliche a discrezione dei parteciapnti. 
 
 - [ ] Alice decide di inviare a Bob un bitcoin (1 BTC) utilizzando la funzionalità __INVIA__
-- [ ] Bob fornisce (via mail, web, tel, msg, etc.) ad Alice un [indirizzo bitcoin](glossario.md#address) utilizzando la funzionalità __RICEVI__
+- [ ] Bob, utilizzando la funzionalità __RICEVI__, genera un [indirizzo bitcoin](glossario.md#address) e lo fornisce (via mail, web, tel, msg, etc.) ad Alice 
 - [ ] Alice immette l'[indirizzo bitcoin](glossario.md#address) di Bob e l'importo (1 BTC) nel suo [wallet](glossario.md#wallet)
