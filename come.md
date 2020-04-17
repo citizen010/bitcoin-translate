@@ -18,7 +18,7 @@ Il modo migliore per comprenderne il funzionamento è analizzare ogni passaggio 
 - [ ] Quando la transazione raggiunge un [mining node](glossario.md#miningnode), quest'ultimo la aggiunge nella sua [mempool](glossario.md#mempool) - ovvero un contenitore di tutte le transazioni in attesa di conferma
 - [ ] Il [mining node](glossario.md#miningnode) genera un nuovo blocco candidato 
 
-
+***
 "Can you explain the lifecycle of a transaction,
 from the point someone sends it from their wallet
 until it is confirmed on the Bitcoin
