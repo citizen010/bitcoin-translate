@@ -13,4 +13,4 @@ Il modo migliore per comprenderne il funzionamento è analizzare ogni passaggio 
 - [ ] Alice decide di inviare a Bob 1 BTC (__INVIA__)
 - [ ] Bob (__RICEVI__) genera un [indirizzo bitcoin](glossario.md#address) e lo fornisce (via mail, web, tel, msg, etc.) ad Alice 
 - [ ] Alice specifica l'[indirizzo bitcoin](glossario.md#address) di Bob e l'importo (1 BTC) nella trasfazione sul suo [wallet](glossario.md#wallet) e conferma l'invio
-- [ ] Il wallet di Alice trasmette la transazione (firmata con la sua [chiave privata](glossario.md#pkey)) sulla [blockchain](glossario.md#blockchain) affinchè venga processata dai [nodi](glossario.md#fullnode) del network.
+- [ ] Il [wallet](glossario.md#wallet di Alice trasmette la [transazione](glossario.md#transazione) (firmata con la sua [chiave privata](glossario.md#pkey)) sulla [blockchain](glossario.md#blockchain) affinchè venga processata dai [nodi](glossario.md#fullnode) del network.
