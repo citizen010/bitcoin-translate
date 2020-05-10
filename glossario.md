@@ -1,9 +1,17 @@
 [indice](README.md)
 ## Glossario
+## A
+* <a name="asic"></a>__ASIC__ - to be completed
+
 ## B
 * <a name="blocco"></a>__BLOCCO__ - un blocco è una parte della [blockchain](#blockchain) che contiene e conferma molte transazioni in attesa. In media circa ogni 10 minuti un nuovo blocco, che include delle transazioni, viene aggiunto alla blockchain attraverso il processo di [mining](#minare).
 
+* <a name="blockreward"></a>__BLOCK REWARD__ (ricompensa) - to be completed
+
 * <a name="blockchain"></a>__BLOCKCHAIN__ - la block chain è un registro pubblico delle transazioni Bitcoin in ordine cronologico. La block chain è condivisa tra tutti gli utenti Bitcoin. È utilizzata per verificare la permanenza delle transazioni Bitcoin e per prevenire il [double spending](#doublespend).
+
+## C
+* <a name="cblock"></a>__CANDIDATE BLOCK__ (blocco candidato) - to be completed
 
 ## D
 * <a name="dyor"></a>__DYOR__ (_Do Your Own Research_) - ricerca più informazioni possibili prima di investire qualsiasi ammontare di denaro in una tecnologia che non padroneggi, di cui conosci poco o di cui hai solo sentito parlare. E' altresì importante selezionare accuratamente anche le fonti da cui si traggono le informazioni.
@@ -28,12 +36,18 @@
 * <a name="ledger"></a>__LEDGER__ (registro) - un ledger è un database che viene consensualmente condiviso e sincronizzato su più siti, istituzioni o aree geografiche. Consente alle transazioni di avere "testimoni" pubblici, rendendo così più difficile un attacco informatico. Il partecipante su ciascun nodo della rete può accedere alle registrazioni condivise su quella rete e può possederne una copia identica. Inoltre, eventuali modifiche o aggiunte apportate al ledger vengono riflesse e copiate presso tutti i partecipanti in pochi secondi o minuti. Rappresenta il consenso, raggiunto tempo per tempo dalla rete, circa quali chiavi private controllino quali bitcoin.
 
 ## M
+* <a name="mempool"></a>__MEMPOOL__ - to be completed 
+
 * <a name="minare"></a>__MINING__ (estrazione) - il processo che fa eseguire all'hardware del computer calcoli matematici al fine di confermare le transazioni ed aumentare la sicurezza della rete Bitcoin. Come ricompensa per il loro servizio, i miner (minatori) di Bitcoin possono incassare delle commissioni sulle transazioni che confermano insieme ai nuovi bitcoin appena creati. Quello del mining è un mercato specializzato e competitivo dove le ricompense sono divise in base a quanti calcoli sono stati eseguiti. Non tutti gli utenti Bitcoin si cimentano nel mining e non è un modo facile per fare soldi.
 
 * <a name="miningnode"></a>__MINING NODE__ - to be completed 
 
 ## P
 * <a name="p2p"></a>__PEER-TO-PEER__ (_da pari a pari_) -  nelle telecomunicazioni indica un modello di architettura logica di rete informatica in cui i nodi sono tutti equivalenti o _paritari_ (peer), potendo fungere al contempo da client e server verso gli altri nodi della rete. Mediante questa configurazione, qualsiasi nodo è in grado di avviare o completare una transazione.
+
+* <a name="pkey"></a>__PRIVATE KEY__ (_chiave privata_) - to be completed
+
+* <a name="pow"></a>__PROOF OF WORK__ - to be completed
 
 ## S
 * <a name="seed"></a>__SEED__ (seme) - una frase, una lista di parole (di solito 12 o 24) che custodiscono tutta l'informazione necessaria a ripristinare i fondi di un portafolgio Bitcoin. I software wallet tipicamente generano questa frase e chiedono all'utente di farne una copia cartacea. In questo modo, se il computer usato smette di funzionare o il disco fisso si corrompe,  gli utenti possono riscaricare il software wallet ed usare la copia cartacea per rientrare in possesso dei loro bitcoins.
