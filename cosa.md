@@ -26,7 +26,7 @@ La rete Bitcoin ha continuato a generare blocchi, ininterrottamente, fin dal suo
 
 In altre parole dal blocco 210.000 in avanti la ricomprensa si dimezza a 25 BTC, dal blocco 420.000 in avanti si dimezza a 12.5 BTC, e così via. Dato che i blocchi vengono generati ogni 10 minuti, questo evento (halving) ha luogo ogni 35.000 ore cioè quasi esattamente 4 anni.
 
->Il __prossimo halving__, atteso al blocco 630.000, è previsto a __Maggio 2020__ - la ricompensa verrà dimezzata a 6.25 BTC. 
+>Il __prossimo halving__, atteso al blocco 840.000, è previsto a __Marzo 2024__ - la ricompensa verrà dimezzata a 3.125 BTC. 
 
 #### Importanza degli halving
 Gli halving continueranno ad avere luogo fino a quando la ricompensa per i minatori non raggiungerà 0 BTC. Siccome Bitcoin può essere suddiviso in 8 cifre decimali, dopo il 33mo halving, il valore della ricompensa sarà precisamente 0 BTC.
