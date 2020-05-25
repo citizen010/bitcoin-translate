@@ -17,6 +17,7 @@
 * [21 Lessons](https://21lessons.com/) by Gigi
 * [Domande e risposte su Bitcoin](https://qabitcoin.davidcoen.it/product/domande-e-risposte-su-bitcoin-versione-cartacea/) by David Coen
 * [The Little Bitcoin Book](https://www.amazon.com/Little-Bitcoin-Book-Matters-Finances/dp/1641990503) by Mr. Timi Ajiboye
+* [This Book Will Save You Time](https://www.amazon.com/This-Book-Will-Save-Time-ebook/dp/B085PVW6M2) by Misir Mahmudov
 
 ### Podcast
 * [What Bitcoin Did](https://www.whatbitcoindid.com/) by Peter McCormack
