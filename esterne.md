@@ -1,7 +1,7 @@
 [indice](README.md)
 # Risorse esterne
 ### Acquisto
-* [@getbittr](https://getbittr.com) - acquisto BTC ed alimentazione wallet
+* (NON PIU' DISPONIBILE dal 20-05-2020) [@getbittr](https://getbittr.com) - acquisto BTC ed alimentazione wallet
 
 ### Articoli
 * [The Bullish Case for Bitcoin](https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1) by Vijay Boyapati
