@@ -22,7 +22,7 @@ Bitcoin è il primo oggetto digitale che non può essere copiato, duplicato o co
 
 Ogni bitcoin è [minato](glossario.md#minare) (cioè viene alla luce) da un cosiddetto [blocco](glossario.md#blocco). Un blocco è composta da 1MB di informazione che tiene traccia di tutte le transazioni avvenute in un certo periodo di tempo. Un nuovo blocco viene generato circa ogni 10 minuti.
 
-La rete Bitcoin ha continuato a generare blocchi, ininterrottamente, fin dal suo avvento. Il primo blocco ([genesis block](glossario.md#genesisblock)) fu generato il 3 Gennaio 2009 e la ricomprensa (reward) per averlo minato era pari a 50 bitcoins (BTC). Ogni blocco successivo ha avuto la stessa ricompensa, ma ogni 210.000 blocchi generarti ha luogo un evento chiamato [halving](glossario.md#halving) che riduce, della metà, la ricomprensa distribuita ai minatori da quel momento in avanti.
+La rete Bitcoin ha continuato a generare blocchi, ininterrottamente, fin dal suo avvento. Il primo blocco ([genesis block](glossario.md#genesisblock)) fu generato il 3 Gennaio 2009 e la ricomprensa ([reward](glossario.md#blockreward)) per averlo minato era pari a 50 bitcoins (BTC). Ogni blocco successivo ha avuto la stessa ricompensa, ma ogni 210.000 blocchi generarti ha luogo un evento chiamato [halving](glossario.md#halving) che riduce, della metà, la ricomprensa distribuita ai minatori da quel momento in avanti.
 
 In altre parole dal blocco 210.000 in avanti la ricomprensa si dimezza a 25 BTC, dal blocco 420.000 in avanti si dimezza a 12.5 BTC, e così via. Dato che i blocchi vengono generati ogni 10 minuti, questo evento (halving) ha luogo ogni 35.000 ore cioè quasi esattamente 4 anni.
 
