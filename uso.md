@@ -12,7 +12,7 @@ Il modo migliore per prendere confidenza con bitcoin è certamente iniziare ad u
 - [ ] quello che vedrai è un nuovo [wallet](glossario.md#wallet) che contiene 0,00000000 BTC
 - [ ] __QUESTA E' L'UNICA VERA DIFFICOLTA'__ acquista/procurati bitcoin
 * chiedi ad un amico che già usa bitcoin di trasferirti una piccola quantità (es. 0.001 BTC) che gli pagherai in contanti (lui saprà come fare)
-* __(NON PIU' DISPONIBILE dal 20-05-2020)__ utilizza [@getbittr](https://getbittr.com/save-bitcoin) per trasferire fondi dal tuo conto bancario al tuo [wallet](glossario.md#wallet). Sono necessari 1-2 gg. lavorativi affinchè il bonifico venga processato. Riceverai una mail di conferma da [@getbittr](https://getbittr.com/save-bitcoin) quando i fondi saranno accreditati sul tuo [wallet](glossario.md#wallet).
+* __(NON PIU' DISPONIBILE dal 20-05-2020)__ <del>utilizza [@getbittr](https://getbittr.com/save-bitcoin) per trasferire fondi dal tuo conto bancario al tuo [wallet](glossario.md#wallet). Sono necessari 1-2 gg. lavorativi affinchè il bonifico venga processato. Riceverai una mail di conferma da [@getbittr](https://getbittr.com/save-bitcoin) quando i fondi saranno accreditati sul tuo [wallet](glossario.md#wallet)</del>.
 - [ ] vedrai una nuova [transazione](glossario.md#transazione) in stato "__non confermata__"
 - [ ] il totale __non sarà__ più uguale a 0,00000000 BTC - prendi nota del numero, servirà in seguito
 - [ ] attendi che lo stato della [transazione](glossario.md#transazione) diventi "__confermata__" (10-15 min)
