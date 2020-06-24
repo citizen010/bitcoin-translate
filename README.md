@@ -2,8 +2,8 @@
 
 # Bitcoin in italiano
 
-Il sito è online all'indirizzo [https://bitcoin-translate.it](https://bitcoin-translate.it)
+E' online all'indirizzo [https://bitcoin-translate.it](https://bitcoin-translate.it)
 
-> Io sono il solo ed unico responsabile di tutti gli errori e le omissioni (__sicuramente__) ivi presenti.
+> Io sono il solo ed unico responsabile di tutti gli errori e le omissioni (__sicuramente__) presenti sul sito.
 
 Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https://github.com/citizen010/bitcoin-translate/issues) oppure una [Pull request](https://github.com/citizen010/bitcoin-translate/pulls).
