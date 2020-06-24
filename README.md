@@ -6,4 +6,4 @@ Il materiale è online all'indirizzo [https://bitcoin-translate.it](https://bitc
 
 Io sono il solo responsabile di tutti gli errori e le omissioni (sicuramente) presenti sul sito.
 
-Se avete commenti e/o migliorie da proporre aprite una [Issues](https://github.com/citizen010/bitcoin-translate/issues). 
+Se avete commenti e/o migliorie da proporre aprite una [Issue](https://github.com/citizen010/bitcoin-translate/issues) oppure una [Pull request](https://github.com/citizen010/bitcoin-translate/pulls).
