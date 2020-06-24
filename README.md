@@ -2,3 +2,4 @@
 
 # Bitcoin in italiano
 Viaggio (senza ritorno) nella tana del bianconiglio.
+Il materiale è reperibile all'indirizzo [Bitcoin in italiano](https://bitcoin-translate.it)
