@@ -2,7 +2,7 @@
 
 # Bitcoin in italiano
 
-Il materiale è online all'indirizzo [https://bitcoin-translate.it](https://bitcoin-translate.it)
+Il sito è online all'indirizzo [https://bitcoin-translate.it](https://bitcoin-translate.it)
 
 > Io sono il solo responsabile di tutti gli errori e le omissioni (__sicuramente__) presenti sul sito.
 
