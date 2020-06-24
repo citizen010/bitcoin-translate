@@ -2,7 +2,7 @@
 
 # Bitcoin in italiano
 
-Il materiale è reperibile all'indirizzo [https://bitcoin-translate.it](https://bitcoin-translate.it)
+Il materiale è online all'indirizzo [https://bitcoin-translate.it](https://bitcoin-translate.it)
 
 Gli errori e le omissioni (sicuramente) presenti sul sito sono tutte sotto la mia sola responsabilità.
 
