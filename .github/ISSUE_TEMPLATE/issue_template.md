@@ -1,6 +1,6 @@
 ---
 name: 'RICHIESTA:'
-about: Suggerisci un'idea per questo progetto (critiche, commenti, suggerimenti, milgiorie, etc.)
+about: Suggerisci un'idea per questo progetto (critiche, commenti, suggerimenti, migliorie, etc.)
 title: 'RICHIESTA:'
 labels: ''
 assignees: ''
