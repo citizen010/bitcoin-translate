@@ -1,20 +1,20 @@
 ---
 name: 'RICHIESTA:'
-about: Suggerisci un'idea per questo progetto
+about: Suggerisci un'idea per questo progetto (critiche, commenti, suggerimenti, milgiorie, etc.)
 title: 'RICHIESTA:'
 labels: ''
 assignees: ''
 
 ---
 
-**Se avete commenti, suggerimenti, migliorie da proporre per favore descrivetele.**
-Una descrizione chiara e concisa di quale sia la vostra proposta.
+**Se hai critiche, commenti, suggerimenti, migliorie oppure link a risorse da proporre, per favore descrivili.**
+Una descrizione chiara e concisa di quale sia la tua proposta.
 
 **Descrivi la soluzione che vorresti.**
 Una descrizione chiara e concisa di cosa vorresti.
 
-**Descrivi quali evetuali alternative hai considerato**
-Una descrizione chiara e concisa di quali soluzioni alternative o funzionalità hai considerato.
+**Ambito**
+Indica in quale sezione del sito vorresti che apparisse la tua proposta.
 
 **Altro**
 Qualiasi altro materiale (screenshots, link, etc.) correlato alla tua richiesta.
