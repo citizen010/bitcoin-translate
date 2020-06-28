@@ -4,6 +4,6 @@
 
 E' online all'indirizzo [https://bitcoin-translate.it](https://bitcoin-translate.it)
 
-> Io sono il solo ed unico responsabile di tutti gli errori e le omissioni (__sicuramente__) presenti sul sito.
+> Io sono il solo ed unico responsabile per tutti gli errori e le omissioni (__sicuramente__) presenti sul sito.
 
 Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https://github.com/citizen010/bitcoin-translate/issues/new/choose).
