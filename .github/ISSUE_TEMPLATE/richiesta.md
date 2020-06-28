@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Se avete commenti, suggerimenti, migliorie da proporre per favore descrivetele.**
-Una descrizione chiara e concisa di quale sia il la vostra proposta.
+Una descrizione chiara e concisa di quale sia la vostra proposta.
 
 **Descrivi la soluzione che vorresti.**
 Una descrizione chiara e concisa di cosa vorresti.
