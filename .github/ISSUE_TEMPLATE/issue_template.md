@@ -1,7 +1,7 @@
 ---
 name: 'RICHIESTA:'
 about: Suggerisci un'idea per questo progetto
-title: ''
+title: 'RICHIESTA:'
 labels: ''
 assignees: ''
 
