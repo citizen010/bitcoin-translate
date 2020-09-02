@@ -28,14 +28,14 @@ Originale di __Parker Lewis__
 - [Bitcoin: L'Internet del Denaro](https://bitcoin-translate.it/blog/20200813.php)<br />
 Originale di __Naval__
 
-- [Il pericolo del "noi" collettivo](https://bitcoin-translate.it/blog/20200812.php)
+- [Il pericolo del "noi" collettivo](https://bitcoin-translate.it/blog/20200812.php)<br />
 Originale di __Marty Bent__
 
-- [Non comprare bitcon, ne ora ne mai](https://bitcoin-translate.it/blog/20200807.php)
+- [Non comprare bitcon, ne ora ne mai](https://bitcoin-translate.it/blog/20200807.php)<br />
 Originale di __Aleksandar Svetski__
 
-- [Non sono richiesti nomi veri](https://bitcoin-translate.it/blog/20200730.php)
+- [Non sono richiesti nomi veri](https://bitcoin-translate.it/blog/20200730.php)<br />
 Originale di __Gigi__
 
-- [10 consigli per interagire con Bitcoin in modo privato](https://bitcoin-translate.it/blog/20200726.php)
+- [10 consigli per interagire con Bitcoin in modo privato](https://bitcoin-translate.it/blog/20200726.php)<br />
 Originale di __BitcoinQnA__
