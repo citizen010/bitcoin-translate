@@ -10,6 +10,7 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 ## BLOG - ultimi articoli tradotti
 
- [Il Numero Zero e Bitcoin](https://bitcoin-translate.it/blog/20200831.php)
+ - [Il Numero Zero e Bitcoin](https://bitcoin-translate.it/blog/20200831.php)
+ 
 Originale di [__Robert Breddlove__ ](https://twitter.com/Breedlove22)
 
