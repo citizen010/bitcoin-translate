@@ -11,5 +11,7 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 ## BLOG - ultimi articoli tradotti
 
  - [Il Numero Zero e Bitcoin](https://bitcoin-translate.it/blog/20200831.php)<br />
-Originale di [__Robert Breddlove__ ](https://twitter.com/Breedlove22)
+Originale di __Robert Breddlove__
 
+- [Decentralizzazione: perché le reti stupide sono migliori](https://bitcoin-translate.it/blog/20200828.php)<br />
+Originale di __Anreas Antonopoulos__
