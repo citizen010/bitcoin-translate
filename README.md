@@ -21,3 +21,21 @@ Originale di __Gigi__
 
 - [Economia di Bitcoin come rete di pagamento](https://bitcoin-translate.it/blog/20200815.php)<br />
 Originale di __Saifedean Ammous__
+
+- [Prima gradualmente, poi all'improvviso](https://bitcoin-translate.it/blog/20200814.php)<br />
+Originale di __Parker Lewis__
+
+- [Bitcoin: L'Internet del Denaro](https://bitcoin-translate.it/blog/20200813.php)<br />
+Originale di __Naval__
+
+- [Il pericolo del "noi" collettivo](https://bitcoin-translate.it/blog/20200812.php)
+Originale di __Marty Bent__
+
+- [Non comprare bitcon, ne ora ne mai](https://bitcoin-translate.it/blog/20200807.php)
+Originale di __Aleksandar Svetski__
+
+- [Non sono richiesti nomi veri](https://bitcoin-translate.it/blog/20200730.php)
+Originale di __Gigi__
+
+- [10 consigli per interagire con Bitcoin in modo privato](https://bitcoin-translate.it/blog/20200726.php)
+Originale di __BitcoinQnA__
