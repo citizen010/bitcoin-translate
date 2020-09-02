@@ -7,3 +7,7 @@ E' online all'indirizzo [https://bitcoin-translate.it](https://bitcoin-translate
 > Io sono il solo ed unico responsabile per tutti gli errori e le omissioni (__sicuramente__) presenti sul sito.
 
 Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https://github.com/citizen010/bitcoin-translate/issues/new/choose).
+
+## BLOG - ultimi articoli tradotti
+
+ [https://bitcoin-translate.it/blog/20200831.php](Il Numero Zero e Bitcoin)
