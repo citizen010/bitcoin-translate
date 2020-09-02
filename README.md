@@ -10,6 +10,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 ## BLOG - ultimi articoli tradotti
 
+ - Da "Hello Worls" a Bitcoin Core - (traduzione in corso)<br />
+Originale di __Rajarshi Maitra__
+
  - [Il Numero Zero e Bitcoin](https://bitcoin-translate.it/blog/20200831.php)<br />
 Originale di __Robert Breddlove__
 
