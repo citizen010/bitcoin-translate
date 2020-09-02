@@ -10,4 +10,4 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 ## BLOG - ultimi articoli tradotti
 
- [https://bitcoin-translate.it/blog/20200831.php](Il Numero Zero e Bitcoin)
+ [Il Numero Zero e Bitcoin](https://bitcoin-translate.it/blog/20200831.php)
