@@ -10,6 +10,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 ## BLOG - ultimi articoli tradotti
 
+ - [Bitcoin non ha alcun valore intrinseco - e questo è fantastico](https://bitcoin-translate.it/blog/20200903.php)<br />
+Originale di __Conner Brown__
+
  - [Da "Hello World" a Bitcoin Core](https://bitcoin-translate.it/blog/20200902.php)<br />
 Originale di __Rajarshi Maitra__
 
