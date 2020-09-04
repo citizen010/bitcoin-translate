@@ -10,6 +10,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 ## BLOG - ultimi articoli tradotti
 
+ - [Bitcoin diventa la bandiera della tecnologia](https://bitcoin-translate.it/blog/20200904.php)<br />
+Originale di __Balaji S. Srinivasan__
+
  - [Bitcoin non ha alcun valore intrinseco - e questo è fantastico](https://bitcoin-translate.it/blog/20200903.php)<br />
 Originale di __Conner Brown__
 
