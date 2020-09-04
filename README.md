@@ -20,7 +20,7 @@ Originale di __Conner Brown__
 Originale di __Rajarshi Maitra__
 
  - [Il Numero Zero e Bitcoin](https://bitcoin-translate.it/blog/20200831.php)<br />
-Originale di __Robert Breddlove__
+Originale di __Robert Breedlove__
 
 - [Decentralizzazione: perché le reti stupide sono migliori](https://bitcoin-translate.it/blog/20200828.php)<br />
 Originale di __Anreas Antonopoulos__
