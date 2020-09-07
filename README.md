@@ -10,7 +10,7 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 ## BLOG - ultimi articoli tradotti
 
- - [Una rivoluzine pacifica](https://bitcoin-translate.it/blog/20200905.php)<br />
+ - [Una Rivoluzine Pacifica](https://bitcoin-translate.it/blog/20200905.php)<br />
 Originale di __Nic Carter__
 
  - [Bitcoin diventa la bandiera della tecnologia](https://bitcoin-translate.it/blog/20200904.php)<br />
