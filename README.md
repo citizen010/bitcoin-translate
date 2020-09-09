@@ -10,6 +10,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 ## BLOG - ultimi articoli tradotti
 
+ - [Quali sono le proprietà chiave di Bitcoin?](https://bitcoin-translate.it/blog/20200907.php)<br />
+Originale di __Jameson Lopp__
+
  - [Una rivoluzine pacifica](https://bitcoin-translate.it/blog/20200905.php)<br />
 Originale di __Nic Carter__
 
