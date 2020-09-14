@@ -10,6 +10,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 ## BLOG - ultimi articoli tradotti
 
+ - [Bitcoin in una pagina ](https://bitcoin-translate.it/blog/20200914.php)<br />
+Originale di __Preston Pysh__
+
  - [Quali sono le proprietà chiave di Bitcoin?](https://bitcoin-translate.it/blog/20200907.php)<br />
 Originale di __Jameson Lopp__
 
