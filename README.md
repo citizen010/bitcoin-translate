@@ -13,6 +13,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
  - [Bitcoin in una pagina ](https://bitcoin-translate.it/blog/20200914.php)<br />
 Originale di __Preston Pysh__
 
+ - [Padroni e Schiavi del deanro](https://bitcoin-translate.it/blog/20200909.php)<br />
+Originale di __Robert Breedlove__
+
  - [Quali sono le proprietà chiave di Bitcoin?](https://bitcoin-translate.it/blog/20200907.php)<br />
 Originale di __Jameson Lopp__
 
