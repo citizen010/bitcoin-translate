@@ -10,7 +10,10 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 ## BLOG - ultimi articoli tradotti
 
- - [Bitcoin in una pagina ](https://bitcoin-translate.it/blog/20200914.php)<br />
+ - [Non Sei Preparato](https://bitcoin-translate.it/blog/20200924.php)<br />
+Originale di __Knut Svanholm__
+
+ - [Bitcoin in una pagina](https://bitcoin-translate.it/blog/20200914.php)<br />
 Originale di __Preston Pysh__
 
  - [Padroni e Schiavi del Denaro](https://bitcoin-translate.it/blog/20200909.php)<br />
