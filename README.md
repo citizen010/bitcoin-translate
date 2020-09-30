@@ -10,6 +10,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 ## BLOG - ultimi articoli tradotti
 
+ - [I Sette Pilastri di Bitcoin](https://bitcoin-translate.it/blog/20200930.php)<br />
+Originale di __Sylvain Saurel __
+
  - [La Ragione Rialzista per Bitcoin](https://bitcoin-translate.it/blog/20200922.php)<br />
 Originale di __Vijay Boyapati__
 
