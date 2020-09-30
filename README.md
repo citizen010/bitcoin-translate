@@ -10,6 +10,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 ## BLOG - ultimi articoli tradotti
 
+ - [La Ragione Rialzista per Bitcoin](https://bitcoin-translate.it/blog/20200922.php)<br />
+Originale di __Vijay Boyapati__
+
  - [Non Sei Preparato](https://bitcoin-translate.it/blog/20200924.php)<br />
 Originale di __Knut Svanholm__
 
