@@ -10,6 +10,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 ## BLOG - ultimi articoli tradotti
 
+ - [Bitcoin, Non Blockchain](https://bitcoin-translate.it/blog/20201006.php)<br />
+Originale di __Parker Lewis__
+
  - [I Sette Pilastri di Bitcoin](https://bitcoin-translate.it/blog/20200930.php)<br />
 Originale di __Sylvain Saurel__
 
