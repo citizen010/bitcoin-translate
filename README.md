@@ -19,7 +19,7 @@ Originale di __Parker Lewis__
  - [I Sette Pilastri di Bitcoin](https://bitcoin-translate.it/blog/20200930.php)<br />
 Originale di __Sylvain Saurel__
 
- - [La Ragione Rialzista per Bitcoin](https://bitcoin-translate.it/blog/20200922.php)<br />
+ - [Bitcoin: le ragioni dell'ottimismo](https://bitcoin-translate.it/blog/20200922.php)<br />
 Originale di __Vijay Boyapati__
 
  - [Non Sei Preparato](https://bitcoin-translate.it/blog/20200924.php)<br />
