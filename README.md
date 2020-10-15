@@ -10,6 +10,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 ## BLOG - ultimi articoli tradotti
 
+ - [Mappa della rete Bitcoin](https://bitcoin-translate.it/blog/20201016.php)<br />
+Originale di __Gloria Zaho__
+
  - [Bitcoin come strumento di secessione](https://bitcoin-translate.it/blog/20201015.php)<br />
 Originale di __Yuri de Gaia__
 
