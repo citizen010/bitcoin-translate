@@ -10,6 +10,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 ## BLOG - ultimi articoli tradotti
 
+ - [Bitcoin come strumento di secessione](https://bitcoin-translate.it/blog/20201015.php)<br />
+Originale di __Yuri de Gaia__
+
  - [Bitcoin, Non Blockchain](https://bitcoin-translate.it/blog/20201006.php)<br />
 Originale di __Parker Lewis__
 
