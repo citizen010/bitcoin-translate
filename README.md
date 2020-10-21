@@ -10,6 +10,12 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 ## BLOG - ultimi articoli tradotti
 
+ - [Le cose che i Bitcoiners non vogliono sentirsi dire](https://bitcoin-translate.it/blog/20201021.php)<br />
+Originale di __Shinobi__
+
+ - [Bitcoin nel portafoglio di investimenti istituzionali](https://bitcoin-translate.it/blog/20201017.php)<br />
+Originale di __Marcel Burger__
+
  - [Mappa della rete Bitcoin](https://bitcoin-translate.it/blog/20201016.php)<br />
 Originale di __Gloria Zaho__
 
