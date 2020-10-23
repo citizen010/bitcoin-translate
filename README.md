@@ -10,6 +10,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 ## BLOG - ultimi articoli tradotti
 
+ - [Non temere il Triste Mietitore](https://bitcoin-translate.it/blog/20201023.php)<br />
+Originale di __Nic Carter__
+
  - [Le cose che i Bitcoiners non vogliono sentirsi dire](https://bitcoin-translate.it/blog/20201021.php)<br />
 Originale di __Shinobi__
 
