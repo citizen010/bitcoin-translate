@@ -10,6 +10,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 ## BLOG - ultimi articoli tradotti
 
+ - [Cari famigliari, cari amici - Una lettera a tutti coloro che non hanno bitcoin](https://bitcoin-translate.it/blog/20201026.php)<br />
+Originale di __Gigi__
+
  - [Bitcoin è una rete monetaria che dominerà il mondo del futuro in materia di denaro](https://bitcoin-translate.it/blog/20201024.php)<br />
 Originale di __Sylvain Saurel__
 
