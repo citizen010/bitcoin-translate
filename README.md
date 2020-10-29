@@ -10,6 +10,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 ## BLOG - ultimi articoli tradotti
 
+ - [Ecco le 3 principali qualità di cui hai bisogno per diventare un Bitcoin HODLer](https://bitcoin-translate.it/blog/20201029.php)<br />
+Originale di __Sylvain Saurel__
+
  - [Cari famigliari, cari amici - Una lettera a tutti coloro che non hanno bitcoin](https://bitcoin-translate.it/blog/20201026.php)<br />
 Originale di __Gigi__
 
