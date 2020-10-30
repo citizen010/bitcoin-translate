@@ -10,6 +10,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 ## BLOG - ultimi articoli tradotti
 
+ - [I libertari NON sono utopisti](https://bitcoin-translate.it/blog/20201030.php)<br />
+Originale di __Aleksandar Svetski__
+
  - [Ecco le 3 principali qualità di cui hai bisogno per diventare un Bitcoin HODLer](https://bitcoin-translate.it/blog/20201029.php)<br />
 Originale di __Sylvain Saurel__
 
