@@ -10,6 +10,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 ## BLOG - ultimi articoli tradotti
 
+ - [Bitcoin come antidoto alla disperazione](https://bitcoin-translate.it/blog/20201103.php)<br />
+Originale di __Aaron Clendenin__
+
  - [I libertari NON sono utopisti](https://bitcoin-translate.it/blog/20201030.php)<br />
 Originale di __Aleksandar Svetski__
 
