@@ -10,6 +10,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 ## BLOG - ultimi articoli tradotti
 
+ - [Bitcoin è una necessità, quindi la sua economia sarà circolare](https://bitcoin-translate.it/blog/20201107.php)<br />
+Originale di __Aleksandar Svetski__
+
  - [Bitcoin come antidoto alla disperazione](https://bitcoin-translate.it/blog/20201103.php)<br />
 Originale di __Aaron Clendenin__
 
