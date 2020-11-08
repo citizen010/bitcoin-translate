@@ -10,6 +10,10 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 ## BLOG - ultimi articoli tradotti
 
+
+ - [Ciclicità delle commissioni della blockchain pubblica e cicli di feedback negativi](https://bitcoin-translate.it/blog/20201108.php)<br />
+Originale di __Nic Carter__
+
  - [Bitcoin è una necessità, quindi la sua economia sarà circolare](https://bitcoin-translate.it/blog/20201107.php)<br />
 Originale di __Aleksandar Svetski__
 
