@@ -10,7 +10,7 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 ## BLOG - ultimi articoli tradotti
 
-Rimanere aggiornato sui nuovi contenuti pubblicati sottoscrivendo il [fees RSS](https://bitcoin-translate.it/blog/rss.xml)
+#### Rimani aggiornato sui nuovi contenuti pubblicati sottoscrivendo il [fees RSS](https://bitcoin-translate.it/blog/rss.xml)
 
 <hr>
 
