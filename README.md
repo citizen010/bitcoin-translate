@@ -14,6 +14,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 <hr>
 
+ - [La Via della Cittadella Digitale](https://bitcoin-translate.it/blog/20201112.php)<br />
+Originale di __Yuri de Gaia__
+
  - [Ciclicità delle commissioni della blockchain pubblica e cicli di feedback negativi](https://bitcoin-translate.it/blog/20201108.php)<br />
 Originale di __Nic Carter__
 
