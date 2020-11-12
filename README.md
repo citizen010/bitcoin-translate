@@ -14,6 +14,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 <hr>
 
+ - [Bitcoin a 12 anni dalla sua nascita](https://bitcoin-translate.it/blog/20201113.php)<br />
+Originale di __Nic Carter__
+
  - [La Via della Cittadella Digitale](https://bitcoin-translate.it/blog/20201112.php)<br />
 Originale di __Yuri de Gaia__
 
