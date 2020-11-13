@@ -14,6 +14,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 <hr>
 
+ - [La più geniale delle nostre idee](https://bitcoin-translate.it/blog/20201114.php)<br />
+Originale di __Robert Breedlove__
+
  - [Bitcoin a 12 anni dalla sua nascita](https://bitcoin-translate.it/blog/20201113.php)<br />
 Originale di __Nic Carter__
 
