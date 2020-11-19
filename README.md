@@ -14,6 +14,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 <hr>
 
+ - [Bitcoin è Uno per tutti](https://bitcoin-translate.it/blog/20201119.php)<br />
+Originale di __Nic Carter__
+
  - [La più geniale delle nostre idee](https://bitcoin-translate.it/blog/20201114.php)<br />
 Originale di __Robert Breedlove__
 
