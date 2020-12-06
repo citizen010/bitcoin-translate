@@ -14,6 +14,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 <hr>
 
+ - [Bitcoin e i Cicli Storici](https://bitcoin-translate.it/blog/20201205.php)<br />
+Originale di __Brandon Quittem__
+
  - [Bitcoin è Uno per tutti](https://bitcoin-translate.it/blog/20201119.php)<br />
 Originale di __Nic Carter__
 
