@@ -14,6 +14,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 <hr>
 
+ - [Il Miglior Gioco](https://bitcoin-translate.it/blog/20201228.php)<br />
+Originale di __Jeff Booth__
+
  - [Bitcoin e i Cicli Storici](https://bitcoin-translate.it/blog/20201205.php)<br />
 Originale di __Brandon Quittem__
 
