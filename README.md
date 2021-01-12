@@ -14,6 +14,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 <hr>
 
+ - [Le Due Economie di Bitcoin](https://bitcoin-translate.it/blog/20210112.php)<br />
+Originale di __Yuri De Gaia__
+
  - [Il Miglior Gioco](https://bitcoin-translate.it/blog/20201228.php)<br />
 Originale di __Jeff Booth__
 
