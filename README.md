@@ -14,6 +14,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 <hr>
 
+ - [Distopie Utopiche](https://bitcoin-translate.it/blog/20210214.php)<br />
+Originale di __Alexandar Svetski__
+
  - [Le Due Economie di Bitcoin](https://bitcoin-translate.it/blog/20210112.php)<br />
 Originale di __Yuri De Gaia__
 
