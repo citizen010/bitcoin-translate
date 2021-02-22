@@ -14,6 +14,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 <hr>
 
+ - [Perché Bitcoin funziona: Per i Neofiti](https://bitcoin-translate.it/blog/20210222.php)<br />
+Originale di __Shinobi [SHI245]__
+
  - [Distopie Utopiche](https://bitcoin-translate.it/blog/20210214.php)<br />
 Originale di __Alexandar Svetski__
 
