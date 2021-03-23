@@ -14,6 +14,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 <hr>
 
+ - [La Responsabilità Di Adottare Bitcoin](https://bitcoin-translate.it/blog/20210323.php)<br />
+Originale di __Gigi__
+
  - [Perché Bitcoin funziona: Per i Neofiti](https://bitcoin-translate.it/blog/20210222.php)<br />
 Originale di __Shinobi [SHI265]__
 
