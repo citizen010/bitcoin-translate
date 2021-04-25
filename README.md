@@ -14,6 +14,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 <hr>
 
+ - [CBDC - le valute digitali delle banche centrali e il nuovo ordine mondiale](https://bitcoin-translate.it/blog/20210425.php)<br />
+Originale di __James Holloway__
+
  - [La Responsabilità Di Adottare Bitcoin](https://bitcoin-translate.it/blog/20210323.php)<br />
 Originale di __Gigi__
 
