@@ -14,6 +14,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 <hr>
 
+ - [Monete Fiat, Fascismo e Comunismo](https://bitcoin-translate.it/blog/20210501.php)<br />
+Originale di __Alexandar Svetski__
+
  - [CBDC - le valute digitali delle banche centrali e il nuovo ordine mondiale](https://bitcoin-translate.it/blog/20210425.php)<br />
 Originale di __James Holloway__
 
