@@ -10,6 +10,8 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 ## BLOG - ultimi articoli tradotti
 
+L'[archivio](https://btcita.substack.com/?no_cover=true) degli articoli è ospitato su __Substack__ 
+
 #### Rimani aggiornato sui nuovi contenuti pubblicati sottoscrivendo il [fees RSS](https://bitcoin-translate.it/blog/rss.xml)
 
 
