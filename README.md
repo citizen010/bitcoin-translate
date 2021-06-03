@@ -14,7 +14,7 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 di __Alexandar Svetski__
 <hr>
 L'[archivio](https://btcita.substack.com/?no_cover=true) degli articoli è ospitato su __Substack__ 
-
+<hr>
 #### Rimani aggiornato sui nuovi contenuti pubblicati sottoscrivendo il [fees RSS](https://bitcoin-translate.it/blog/rss.xml)
 
 
