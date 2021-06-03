@@ -15,7 +15,11 @@ di __Alexandar Svetski__
 
 <hr>
 
-L'[archivio](https://btcita.substack.com) degli articoli è ospitato su __Substack__ - Rimani aggiornato sui nuovi contenuti pubblicati sottoscrivendo il [feed RSS](https://bitcoin-translate.it/blog/rss.xml)
+L'[archivio](https://btcita.substack.com) degli articoli è ospitato su __Substack__ 
+
+<hr>
+
+- #### Sottoscrivi il [feed](https://bitcoin-translate.it/blog/rss.xml) degli __Articoli__
 
 <hr>
 
