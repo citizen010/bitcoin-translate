@@ -23,6 +23,6 @@ L'[archivio](https://btcita.substack.com) degli articoli è ospitato su __Substa
 
 <hr>
 
-#### Sottoscrivi il [feed](https://bitcoin-translate.it/blog/rss.xml) dei __Tutorial__
+#### Sottoscrivi il [feed](https://bitcoin-translate.it/tutorial/rss.xml) dei __Tutorial__
 
 
