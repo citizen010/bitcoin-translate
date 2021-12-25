@@ -10,6 +10,12 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 ## BLOG - ultimi articoli tradotti
 
+[Bitcoin e il Limite di Dunbar](https://bitcoin-translate.it/blog/20211208.php)
+di __Hugo Nguyen__
+
+[La magia del denaro su Internet](https://bitcoin-translate.it/blog/20211108.php)
+di __Der Gigi__
+
 [Il mining di Bitcoin NON risolve problemi di matematica complessi](https://bitcoin-translate.it/blog/20211105.php)
 di __Braiins.com__
 
