@@ -24,7 +24,7 @@ di __Alexandar Svetski__
 
 <hr>
 
-L'[archivio](https://btcita.substack.com) degli articoli è ospitato su __Substack__ 
+L'[archivio](https://btcita.substack.com) contenente __45__ articoli è ospitato su __Substack__ 
 
 <hr>
 
