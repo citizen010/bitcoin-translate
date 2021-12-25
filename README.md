@@ -10,6 +10,9 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 ## BLOG - ultimi articoli tradotti
 
+[Il mining di Bitcoin NON risolve problemi di matematica complessi](https://bitcoin-translate.it/blog/20211105.php)
+di __Braiins.com__
+
 [Monete Fiat, Fascismo e Comunismo](https://bitcoin-translate.it/blog/20210501.php)
 di __Alexandar Svetski__
 
