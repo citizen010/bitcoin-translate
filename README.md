@@ -10,7 +10,7 @@ Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https:
 
 ## BLOG
 
-L'[archivio](https://btcita.substack.com) degli articoli è ospitato su __Substack__ 
+L'[archivio](https://btcita.substack.com) degli articoli tradotti in italiano è ospitato su __Substack__ 
 
 <hr>
 
