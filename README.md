@@ -8,9 +8,7 @@ E' online all'indirizzo [https://bitcoin-translate.it](https://bitcoin-translate
 
 Se avete commenti, suggerimenti, migliorie da proporre aprite una [Issue](https://github.com/citizen010/bitcoin-translate/issues/new/choose).
 
-## BLOG - ultimi articoli tradotti
-
-<hr>
+## BLOG
 
 L'[archivio](https://btcita.substack.com) degli articoli è ospitato su __Substack__ 
 
