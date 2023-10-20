@@ -14,7 +14,13 @@ L'[archivio](https://btcita.substack.com) degli articoli tradotti in italiano è
 
 <hr>
 
-#### Sottoscrivi il [feed](https://bitcoin-translate.it/blog/rss.xml) degli __Articoli__
+#### Sottoscrivi il [feed RSS](https://bitcoin-translate.it/blog/rss.xml) degli __Articoli__
+
+#### Il feed degli Articoli può essere seguito anche su:
+
+:o: **#nostr** pub12pwdnrwn3venlf0shsq8rdntgpeyf2cml5g92nlm2hs2td6a2lqq08d0pj
+
+:o: **#telegram** [https://t.me/bitcoininitaliano](https://t.me/bitcoininitaliano)
 
 <hr>
 
